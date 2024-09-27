@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Projeto Livre - Parte 1
 
 Turma Online X | Semana X | 202X | Professora X
 
