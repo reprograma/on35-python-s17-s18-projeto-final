@@ -16,8 +16,11 @@ Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Mapviomas Alertas](https://plataforma.alerta.mapbiomas.org/downloads)  
+- **Base 1**: [Mapviomas Alertas](https://plataforma.alerta.mapbiomas.org/downloads)
+- 
 - **Base 2**: [GOOS Bóias Pirata](http://www.goosbrasil.org/pirata/dados/)
+- ![image](https://github.com/user-attachments/assets/7fbe99ae-cc0b-4c34-8d6c-09317daf9f32)
+
 - **Base 3**: []()
 
 ---
