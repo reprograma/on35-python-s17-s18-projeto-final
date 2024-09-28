@@ -29,6 +29,39 @@ Antes de começar, vamos organizar nosso setup.
 ## Conteúdo
 ## Escolher o tema
 
+### Dado
+Dado é qualquer tipo de valor bruto que, sozinho, não tem significado. Pode ser um número, palavra ou símbolo.
+- **Exemplo:** "20", "João", "Brasil"
+
+### Informação
+Informação é o dado processado e organizado, que já tem algum sentido e pode ser útil para entender algo.
+- **Exemplo:** "João tem 20 anos e mora no Brasil."
+
+### Conhecimento
+Conhecimento é o que a gente entende e aprende a partir da informação, permitindo tomar decisões ou resolver problemas.
+- **Exemplo:** "Sabemos que jovens de 20 anos no Brasil têm maior acesso à tecnologia, o que afeta seus hábitos."
+
+Assim, **dados** são a base, **informação** é o dado com sentido, e **conhecimento** é o aprendizado que tiramos disso.
+
+No início do projeto de dados, essas são perguntas essenciais: 
+Conteúdo:  O que eu quero informar?
+Público : Para quem eu estou contando essa história? Com quem vou compartilhar essa informação?
+
+Há duas abordagens distintas para a escolha de um tema em projetos de análise de dados. 
+
+No **"caminho comum"**, o processo segue os seguintes passos:
+1. **Delimitação do tema**: Escolha de um assunto amplo.
+2. **Definição do problema**: Identificação de uma questão específica a ser resolvida.
+3. **Desenvolvimento de perguntas**: Criação de perguntas que guiarão a pesquisa e análise.
+4. **Coleta de dados**: Identificação e aquisição de dados necessários para responder às perguntas.
+
+Já no **"caminho do projeto final"**, a proposta é inverter um pouco a ordem tradicional:
+1. **Definir um interesse**: Escolher um tema que desperte curiosidade ou paixão.
+2. **Identificar um problema social**: Relacionar o tema com uma questão relevante na sociedade.
+3. **Selecionar uma base de dados**: Encontrar uma base de dados disponível que seja adequada para o tema.
+4. **Desenvolver perguntas**: Formular perguntas que possam ser respondidas com os dados escolhidos.
+
+Essa abordagem mais flexível ajuda na exploração de dados reais, relacionando-os com temas de interesse pessoal e questões sociais importantes.
 
 ## Selecionar a Base de Dados  
 
