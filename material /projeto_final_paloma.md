@@ -26,7 +26,9 @@ Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da
 
 ![image](https://github.com/user-attachments/assets/7fbe99ae-cc0b-4c34-8d6c-09317daf9f32)
 
-- **Base 3**: []()
+- **Base 3**: [Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG)](https://plataforma.seeg.eco.br/?highlight=states-net-emissions-by-sector-goias&_gl=1*1nqir75*_ga*NTI0MDk2MzUwLjE3Mjc1NDQ0NjA.*_ga_XZWSWEJDWQ*MTcyNzU0NDQ2MC4xLjAuMTcyNzU0NDQ2MC4wLjAuMA..)
+
+![image](https://github.com/user-attachments/assets/59f08116-8871-483b-9a66-4d4ee7385f07)
 
 ---
  
