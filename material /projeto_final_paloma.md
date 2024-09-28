@@ -21,7 +21,7 @@ Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da
 ![image](https://github.com/user-attachments/assets/c88130d7-548c-4b12-9af6-8c31a6f222d7)
 
 - **Base 2**: [GOOS Bóias Pirata](http://www.goosbrasil.org/pirata/dados/)
-- 
+
 ![image](https://github.com/user-attachments/assets/a700f335-0d5f-4609-802f-6a41423d983c)
 
 ![image](https://github.com/user-attachments/assets/7fbe99ae-cc0b-4c34-8d6c-09317daf9f32)
