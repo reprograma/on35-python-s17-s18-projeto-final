@@ -19,15 +19,18 @@ Antes de começar, vamos organizar nosso setup.
 **Material da aula:** [Slide Semana 17](https://docs.google.com/presentation/d/1TN24pwUz_T_3yvuUnyvF-D5dQ807jj-IvBnZktYdszM/edit?usp=sharing) e [Slide Semana 18](https://docs.google.com/presentation/d/1jXNrq_Nd8Ah-FAS51zj1NnFRCdHWYyKZzfNohCGm-WA/edit?usp=sharing) 
 
 ### O que veremos na aula de hoje?
-* Boas Vindas: Objetivo da semana + Apresentação Professora
-* Apresentação do projeto: objetivos e entregáveis 
-* 
-* [Escolhendo uma fonte de dados](#Escolhendoumafontededados)
-* Análise exploratória
+* Boas Vindas e Apresentação Professora
+* Apresentação do projeto: objetivos e entregáveis
+* Escolher o tema
+* Selecionar a Base de Dados 
+* Definir Objetivo e Perguntas norteadoras
+* Realizar Análise Exploratória
 
 ## Conteúdo
+## Escolher o tema
 
-## Escolha da Base de Dados 
+
+## Selecionar a Base de Dados  
 
 ### 1. Dados Educacionais
 - **Censo da Educação Superior**
@@ -107,8 +110,9 @@ Antes de começar, vamos organizar nosso setup.
   - **Descrição:** Dados sobre a produção, refino e distribuição de petróleo e gás no Brasil.
   - **Link:** [ANP Dados Abertos](https://www.gov.br/anp/pt-br/dados-abertos)
  
-## Definindo Objenossas perguntas
-### 1. **Entenda o Contexto da Base de Dados**
+## Definir Objetivo e Perguntas
+
+### 1. Entenda o Contexto da Base de Dados
 Antes de fazer perguntas, você deve compreender:
 - **Qual é o tema** da base de dados?
 - **Qual é o escopo** dos dados (tempo, região, tipo de variáveis)?
@@ -116,14 +120,13 @@ Antes de fazer perguntas, você deve compreender:
 
 Exemplo: Se você está trabalhando com uma base de dados do ENEM, os dados podem incluir notas, dados socioeconômicos, idade dos alunos, etc.
 
-### 2. **Defina um Objetivo Geral**
+### 2. Defina um Objetivo Geral
 O objetivo geral é a grande questão que você quer responder. Ele deve estar alinhado com o propósito da análise e os resultados que você quer atingir.
 
-Exemplo:
-- **Objetivo geral:** "Entender os fatores que influenciam o desempenho dos alunos no ENEM."
+Exemplo: Objetivo geral: "Entender os fatores que influenciam o desempenho dos alunos no ENEM."
 
-### 3. **Divida o Objetivo em Perguntas Menores (Perguntas Norteadoras)**
-Uma vez definido o objetivo, você pode criar perguntas específicas que guiarão sua análise. Essas perguntas devem ajudar a quebrar o objetivo geral em partes manejáveis.
+### 3. Divida o Objetivo em Perguntas Norteadoras (Perguntas Menores)
+Você pode criar perguntas específicas que guiarão sua análise. Essas perguntas devem ajudar a quebrar o objetivo geral em partes manejáveis.
 
 #### Tipos de Perguntas Norteadoras:
 - **Perguntas Descritivas**: Perguntas que ajudam a entender o básico sobre os dados.
@@ -146,15 +149,15 @@ Uma vez definido o objetivo, você pode criar perguntas específicas que guiarã
   - "O tipo de escola (pública ou privada) tem impacto significativo nas notas finais?"
   - "Estudantes com maior nível de escolaridade dos pais tendem a obter melhores resultados?"
 
-### 4. **Seja Específico**
+### 4. Seja Específico
 Certifique-se de que suas perguntas norteadoras sejam específicas e direcionadas. Isso evita análises muito amplas ou inconclusivas.
 
 Exemplo:
 - Pergunta vaga: "Como os dados influenciam os resultados dos alunos?"
 - Pergunta específica: "Qual a relação entre o tempo de estudo diário e a nota final em matemática no ENEM?"
 
-### 5. **Alinhe com os Dados Disponíveis**
-Verifique se as perguntas que você formulou podem ser respondidas com os dados que você tem. Algumas perguntas podem não ser viáveis se faltarem informações relevantes.
+### 5. Alinhe com os Dados Disponíveis
+Verifique se as perguntas que você formulou podem ser respondidas com os dados que você tem. 
 
 Exemplo:
 - Se a base de dados do ENEM não inclui a variável "horas de estudo", você precisaria ajustar a pergunta ou buscar outra base de dados.
@@ -166,9 +169,9 @@ Exemplo:
 - "Quais grupos de alunos poderiam se beneficiar de mais recursos educacionais com base no seu desempenho?"
 
   
-  O que eu quero tentar responder? VAMOS AO [BRAINSTORM](#material-da-aula)!
+## O que eu quero tentar responder? VAMOS AO [BRAINSTORM](#material-da-aula)!
 
-## Materiais de Apoio
+## Realizar Análise Exploratória
 Links úteis para referência durante a análise exploratória e manipulação dos dados:
 - [Documentação Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 - [Introdução ao Pandas](https://medium.com/tech-grupozap/introdu%C3%A7%C3%A3o-a-biblioteca-pandas-89fa8ed4fa38)
