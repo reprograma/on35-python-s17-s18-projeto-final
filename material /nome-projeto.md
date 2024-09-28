@@ -1,15 +1,16 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemplo: dados educacionais do ENEM]**.  
+Este projeto consiste na análise de **[Análise dos Acidentes de Trânsito em Recife: Causas e Consequências]**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
-2. **Definir Objetivo e Perguntas**  [Estabelecer o objetivo e formular perguntas-chave com base nas variáveis disponíveis.]
-3. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
-4. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
-5. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
-6. **Preparar Apresentação Final**  [Apresentar o tema, dados e visualizações de forma clara e objetiva.]
+2. **Definir Objetivo e Perguntas**  [
+3. *Objetivo*: Analisar a incidência e as causas dos acidentes de trânsito em Recife, com foco na coleta de dados e na compreensão do fenômeno]
+4. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
+5. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
+6. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
+7. **Preparar Apresentação Final**  [Apresentar o tema, dados e visualizações de forma clara e objetiva.]
 
 ---
 
