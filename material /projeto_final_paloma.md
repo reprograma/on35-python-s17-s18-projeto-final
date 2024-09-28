@@ -1,6 +1,7 @@
 # Projeto Final de Análise de Dados
 
-Paloma e Anne
+Paloma Avena palomaavena@gmail.com
+Anne
 
 ## Contexto  
 Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da água do mar do estado da Bahia nos últimos 5 anos.  
