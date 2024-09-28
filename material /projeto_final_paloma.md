@@ -16,8 +16,9 @@ Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Nome da base de dados e fonte (por exemplo, Microdados do ENEM, INEP)]  
-- **Base 2**: [[Nome da base de dados e fonte (opcional, caso use outra base complementar)]  (http://www.goosbrasil.org/pirata/dados/)
+- **Base 1**: [Mapviomas Alertas](https://plataforma.alerta.mapbiomas.org/downloads)  
+- **Base 2**: [GOOS Bóias Pirata](http://www.goosbrasil.org/pirata/dados/)
+- **Base 3**: []()
 
 ---
  
