@@ -20,7 +20,7 @@ Antes de começar, vamos organizar nosso setup.
 
 ### O que veremos na aula de hoje?
 * Boas Vindas e Apresentação Professora
-* Apresentação do projeto: objetivos e entregáveis
+* Apresentação do projeto e entregáveis
 * Escolher o tema
 * Selecionar a Base de Dados 
 * Definir Objetivo e Perguntas norteadoras
