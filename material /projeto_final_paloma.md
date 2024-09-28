@@ -1,7 +1,9 @@
 # Projeto Final de Análise de Dados
 
+Paloma e Anne
+
 ## Contexto  
-Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemplo: dados educacionais do ENEM]**.  
+Este projeto consiste na análise de dados de desmatamento, CO2 e temperatura da água do mar do estado da Bahia nos últimos 5 anos.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -20,17 +22,18 @@ Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemp
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu projeto, por exemplo: identificar as variáveis que influenciam o desempenho dos alunos no ENEM]**.  
+Realizar uma análise dos dados com o objetivo de identificar variáveis que influenciam o aumento da temperatura do Mar e CO2 na atmosfera com o aumento do desmatamento.   
 
 ### As perguntas norteadoras deste projeto são:  
 1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
+2. **[Pergunta comparativa]** - Municípios com maiores dados 
+3. **[Pergunta relacional]** - Existe correlação entre os três dados e a pandemia
 4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
 
 ---
 
 ## Ferramentas Utilizadas  
+- **Banco de dados** 
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
