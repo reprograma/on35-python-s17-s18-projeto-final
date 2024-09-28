@@ -30,7 +30,8 @@ Este projeto consiste na criação de um banco de dados climáticos da Bahia e a
 
 - **Base 3**: [Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG)](https://plataforma.seeg.eco.br/?highlight=states-net-emissions-by-sector-goias&_gl=1*1nqir75*_ga*NTI0MDk2MzUwLjE3Mjc1NDQ0NjA.*_ga_XZWSWEJDWQ*MTcyNzU0NDQ2MC4xLjAuMTcyNzU0NDQ2MC4wLjAuMA..)
 
-![image](https://github.com/user-attachments/assets/59f08116-8871-483b-9a66-4d4ee7385f07)
+![image](https://github.com/user-attachments/assets/485e7e6c-9ebf-418c-8e25-d570c54780e1)
+
 
 ---
  
