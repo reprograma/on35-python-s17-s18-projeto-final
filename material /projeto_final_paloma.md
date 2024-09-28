@@ -45,10 +45,15 @@ Como o desmatamento na Bahia impacta nas taxas de emissão de CO2 e sua relaçã
 2. **[Pergunta comparativa]** - Municípios com maiores dados 
 3. **[Pergunta relacional]** - Existe correlação entre os três dados e a pandemia
 4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+
 Como o desmatamento na Bahia impacta as taxas de emissão de CO₂ e qual sua relação com a temperatura dos oceanos?
+
 Qual a taxa de desmatamento nos biomas/municípios da Bahia e como ela evoluiu no período de 2019 a 2022?
+
 Existe uma relação entre as áreas desmatadas e o aumento da temperatura da água do mar nas regiões costeiras afetadas?
+
 Quais regiões da Bahia apresentam as maiores emissões de carbono derivadas do desmatamento e como isso se reflete nas mudanças de temperatura do oceano?
+
 ---
 
 ## Ferramentas Utilizadas  
