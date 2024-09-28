@@ -35,7 +35,9 @@ Este projeto consiste na criação de um banco de dados climáticos da Bahia e a
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de identificar variáveis que influenciam o aumento da temperatura do Mar e CO2 na atmosfera com o aumento do desmatamento.   
+Criar um banco de dados e realizar uma análise dos dados com o objetivo de identificar variáveis que influenciam o aumento da temperatura do Mar e CO2 na atmosfera com o aumento do desmatamento.   
+
+Como o desmatamento na Bahia impacta nas taxas de emissão de CO2 e sua relação com a temperatura da água do Mar?
 
 ### As perguntas norteadoras deste projeto são:  
 1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
