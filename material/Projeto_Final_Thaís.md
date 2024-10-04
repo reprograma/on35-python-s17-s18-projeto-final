@@ -1,4 +1,4 @@
-# Projeto Final de Análise de Dados
+# Projeto Final de Análise de Dados - Análise dos Acidentes de Trânsito em Recife: Causas e Consequências
 
 ## Contexto  
 Este projeto consiste na Análise dos Acidentes de Trânsito em Recife: Causas e Consequências. A análise será baseada em uma base de dados que registra informações sobre os acidentes ocorridos durante as horas do dia, especificamente entre 00h e 13h.
