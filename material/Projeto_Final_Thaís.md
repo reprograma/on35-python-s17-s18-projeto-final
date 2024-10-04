@@ -1,33 +1,30 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de *[Análise dos Acidentes de Trânsito em Recife: Causas e Consequências**.  
+Este projeto consiste na Análise dos Acidentes de Trânsito em Recife: Causas e Consequências. A análise será baseada em uma base de dados que registra informações sobre os acidentes ocorridos durante as horas do dia, especificamente entre 00h e 13h.
 
 ## Etapas do projeto:
-1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
+1. **Selecionar a Base de Dados**
 2. **Definir Objetivo e Perguntas**
-*Objetivo*: Analisar a incidência e as causas dos acidentes de trânsito em Recife, com foco na coleta de dados e na compreensão do fenômeno
-4. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.]
-5. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.]
-6. **Criar Visualizações no Tableau**  [Desenvolver gráficos que sintetizem os principais insights.]
-7. **Preparar Apresentação Final**  [Apresentar o tema, dados e visualizações de forma clara e objetiva.]
-
+3. **Realizar Análise Exploratória**
+4. **Gerar Base Final** 
+5. **Criar Visualizações no Tableau**
+6. **Preparar Apresentação Final** 
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Nome da base de dados e fonte (por exemplo, Microdados do ENEM, INEP)]  
-- **Base 2**: [Nome da base de dados e fonte (opcional, caso use outra base complementar)]  
-
+**Base**: [https://docs.google.com/spreadsheets/d/1dRUmZ2t9evL67viajxh3TqAWdznhah8lgXZZQWSXsj8/edit?gid=1165936477#gid=1165936477(GOV-2023)] 
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu projeto, por exemplo: identificar as variáveis que influenciam o desempenho dos alunos no ENEM]**.  
+Analisar a incidência e as causas dos acidentes de trânsito em Recife, com foco na coleta de dados e na compreensão do fenômeno
 
-### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+### As perguntas norteadoras deste projeto são:   
+1. **[Pergunta descritiva]** - Qual é o perfil dos envolvidos em acidentes de trânsito, considerando motoristas de automóveis, ciclistas e pedestres?
+2. **[Pergunta comparativa]** - Como a frequência de acidentes de trânsito varia entre os bairros de Recife durante a madrugada?  
+3. **[Pergunta relacional]** - Qual é a relação entre o tipo de automóvel envolvido e a incidência de acidentes de trânsito com vítimas fatais em Recife? 
+4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir das tendências observadas nos dados de acidentes de trânsito?
+5. **[Pergunta temporal]** - Como a taxa de acidentes de trânsito em Recife variou de janeiro a dezembro de 2023?
 
 ---
 
@@ -35,4 +32,3 @@ Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu p
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
