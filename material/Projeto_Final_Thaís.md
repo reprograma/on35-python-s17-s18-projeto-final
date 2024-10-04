@@ -20,11 +20,11 @@ Este projeto consiste na Análise dos Acidentes de Trânsito em Recife: Causas e
 Analisar a incidência e as causas dos acidentes de trânsito em Recife, com foco na coleta de dados e na compreensão do fenômeno
 
 ### As perguntas norteadoras deste projeto são:   
-1. **[Pergunta descritiva]** - Qual é o perfil dos envolvidos em acidentes de trânsito, considerando motoristas de automóveis, ciclistas e pedestres?
-2. **[Pergunta comparativa]** - Como a frequência de acidentes de trânsito varia entre os bairros de Recife durante a madrugada?  
-3. **[Pergunta relacional]** - Qual é a relação entre o tipo de automóvel envolvido e a incidência de acidentes de trânsito com vítimas fatais em Recife? 
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir das tendências observadas nos dados de acidentes de trânsito?
-5. **[Pergunta temporal]** - Como a taxa de acidentes de trânsito em Recife variou de janeiro a dezembro de 2023?
+1. **Pergunta descritiva** - Qual é o perfil dos envolvidos em acidentes de trânsito, considerando motoristas de automóveis, ciclistas e pedestres?
+2. **Pergunta comparativa** - Como a frequência de acidentes de trânsito varia entre os bairros de Recife durante a madrugada?  
+3. **Pergunta relacional** - Qual é a relação entre o tipo de automóvel envolvido e a incidência de acidentes de trânsito com vítimas fatais em Recife? 
+4. **Pergunta exploratória** - Quais insights podem ser extraídos a partir das tendências observadas nos dados de acidentes de trânsito?
+5. **Pergunta temporal** - Como a taxa de acidentes de trânsito em Recife variou de janeiro a dezembro de 2023?
 
 ---
 
