@@ -31,4 +31,5 @@ Analisar a incidência e as causas dos acidentes de trânsito em Recife, com foc
 ## Ferramentas Utilizadas  
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
-- **GitHub**: Para versionamento do projeto e documentação.  
+- **GitHub**: Para versionamento do projeto e documentação.
+- **Google Colab**: Para execução de notebooks de forma colaborativa e em nuvem. 
