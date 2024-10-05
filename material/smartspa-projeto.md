@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemplo: dados educacionais do ENEM]**.  
+Este projeto consiste na análise da **Clinica Smart Spa**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -14,19 +14,27 @@ Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemp
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Nome da base de dados e fonte (por exemplo, Microdados do ENEM, INEP)]  
-- **Base 2**: [Nome da base de dados e fonte (opcional, caso use outra base complementar)]  
+- **Base 1**: Pacientes  
+- **Base 2**: Financeiro   
 
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu projeto, por exemplo: identificar as variáveis que influenciam o desempenho dos alunos no ENEM]**.  
+
+**Realizar uma análise dos dados com o objetivo de**
+**Identificar  melhorias para o CRM da clinica para ter uma melhor comunicação com os pacientes e assim ter um retenção maior de pacientes, analisar o desempenho da atendimentos e os procedimentos mais procurados pelos paciente.
 
 ### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+
+1. **[Pergunta sobre o perfil dos dados]**
+     Qual a faixa etária predominante dos clientes? Há alguma concentração em grupos específicos?
+     Qual a proporção de clientes do sexo masculino e feminino?
+     De onde vêm os clientes?
+     Qual a média de frequencia das visitas? 
+   
+3. **[Pergunta comparativa]** - Comparação das desempenho das vendas e clientes novos, no pós pandemia?  
+4. **[Pergunta relacional]** - Correlação entre tratamentos e idade?(É comum observar uma correlação entre determinados tratamentos estéticos e faixas etárias específicas)
+5. **[Pergunta exploratória]** 
 
 ---
 
@@ -34,4 +42,4 @@ Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu p
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
+- **Vscode**: Para execução de notebooks de forma colaborativa e em nuvem.  
