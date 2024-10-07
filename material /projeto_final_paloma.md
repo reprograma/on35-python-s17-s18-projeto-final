@@ -108,3 +108,252 @@ print(df1.head())
 print(df2.head())
 
 ```
+
+
+```python
+
+df1.info()
+df2.info()
+
+
+```
+
+
+```python
+
+# Converta todas as colunas de anos para string, por exemplo
+
+df1[['2019', '2020', '2021', '2022']] = df1[['2019', '2020', '2021', '2022']].astype(float)
+df2[['2019', '2020', '2021', '2022']] = df2[['2019', '2020', '2021', '2022']].astype(float)
+
+# Converta a coluna Categoria também, se necessário
+df1['Categoria'] = df1['Categoria'].astype(str)
+df2['Categoria'] = df2['Categoria'].astype(str)
+
+
+# Exibindo as primeiras linhas dos DataFrames para verificar
+print(df1.head())
+print(df2.head())
+
+
+```
+
+
+```python
+
+# Remover espaços em branco no início e no fim dos valores das colunas de chave
+
+df1['Categoria'] = df1['Categoria'].str.strip()
+df2['Categoria'] = df2['Categoria'].str.strip()
+
+
+
+# Exibindo as primeiras linhas dos DataFrames para verificar
+print(df1.head())
+print(df2.head())
+
+```
+
+
+```python
+
+print("Valores únicos de Categoria no df1:", df1['Categoria'].unique())
+print("Valores únicos de Categoria no df2:", df2['Categoria'].unique())
+
+```
+
+
+```python
+
+# Fazendo a mesclagem com base em várias colunas
+df_merged = pd.merge(df1, df2, on=['Categoria', '2019', '2020', '2021', '2022'], how='outer', suffixes=('.x', '.y'))
+
+
+# Exibindo as primeiras linhas do arquivo mesclado
+print(df_merged.head())
+
+
+```
+
+
+```python
+
+df_merged.info()
+
+```
+
+```python
+
+# Exibe os nomes das colunas
+df_merged.columns
+
+```
+
+
+```python
+
+# Selecionar as colunas específicas
+
+df_reduzido = df_merged[['Categoria','2019', '2020', '2021', '2022']]
+print(df_reduzido)
+
+```
+
+
+
+```python
+
+# Altera os nomes das colunas
+
+df_reduzido.columns = ['Municípios', '2019', '2020', '2021', '2022']
+print(df_reduzido)
+
+```
+
+
+```python
+
+# Verifica valores nulos
+
+nulos = df_reduzido.isnull()
+print(nulos)
+
+# Contagem de valores nulos em cada coluna
+
+nulos_por_coluna = df_reduzido.isnull().sum()
+print(nulos_por_coluna)
+
+```
+
+
+```python
+
+# Remove linhas duplicadas
+
+df_sem_duplicatas = df_reduzido.drop_duplicates()
+print(df_sem_duplicatas)
+
+```
+
+
+
+```python
+
+df_sem_duplicatas = pd.melt(df_sem_duplicatas, id_vars=['Municípios'], value_vars=['2019', '2020', '2021', '2022'], var_name='Ano', value_name='CO2_emitido')
+
+print(df_sem_duplicatas)
+
+```
+
+
+
+```python
+
+# Salvando o arquivo final mesclado em um novo CSV
+
+df_sem_duplicatas.to_csv('co2.csv', index=False, encoding='utf-8')
+
+print(df_sem_duplicatas)
+
+```
+
+
+
+## 2. DADOS DESMATAMENTO - MAPBIOMAS
+
+```python
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+```
+
+
+```python
+
+# importando dados
+
+df3 = pd.read_csv('mapbiomas_ba.csv')
+
+# Exibindo as primeiras linhas dos DataFrames para verificar
+
+print(df3.head())
+
+```
+
+
+```python
+
+df3.info()
+
+```python
+
+
+
+```python
+
+# Converta todas as colunas de anos para int, por exemplo
+
+df3[['ANODETEC']] = df3[['ANODETEC']].astype(int)
+
+df3.info()
+
+```
+
+
+```python
+
+# Remover múltiplas colunas de uma vez, temos que deixar municipio, area ha (pra calcular o desmatamento, data tec e ano)
+
+colunas_para_remover = ['CODEALERTA', 'FONTE', 'ESTADO', 'DTIMGANT', 'DTIMGDEP', 'DTPUBLI', 'VPRESSAO']
+
+df3_limpo = df3.drop(columns=colunas_para_remover)
+
+print(df3_limpo.head())
+
+```
+
+
+
+```python
+
+print(df3_limpo.info())
+
+```
+
+
+```python
+
+# Verificar se tem valores faltantes
+
+print(df3_limpo.isnull().sum())
+
+```
+
+
+```python
+
+# Agrupamentos
+
+df3_MUN = df3_limpo.groupby('MUNICIPIO')['AREAHA'].sum().reset_index()
+
+# Mostrar o resultado
+print(df3_MUN.head())
+
+df3_ANO = df3_limpo.groupby('ANODETEC')['AREAHA'].sum().reset_index()
+
+# Mostrar o resultado
+print(df3_ANO.head())
+
+```
+
+```python
+
+# Salvando o arquivo final em um novo CSV
+
+df3_limpo.to_csv('desmatamento.csv', index=False)
+
+print(df3_limpo)
+
+```
