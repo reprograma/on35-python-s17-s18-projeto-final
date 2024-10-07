@@ -332,24 +332,25 @@ print(df3_final.head())
 
 ``` python
 
-# Carregar os dados de CO2 e desmatamento já processados
+# Limpar e padronizar os nomes de municípios e anos
+df_desmatamento['MUNICIPIO'] = df_desmatamento['MUNICIPIO'].str.strip().str.lower()
+df_co2['Municípios'] = df_co2['Municípios'].str.strip().str.lower()
 
-df_co2 = pd.read_csv('co2.csv')
-df_desmatamento = pd.read_csv('desmatamento.csv')
+# Remover informações de estado (como "(BA)") de 'Municípios'
+df_co2['Municípios'] = df_co2['Municípios'].str.replace(r' \(.*\)', '', regex=True)
 
+# Converter as colunas de ano para o mesmo tipo
+df_desmatamento['ANODETEC'] = df_desmatamento['ANODETEC'].astype(int)
+df_co2['Ano'] = df_co2['Ano'].astype(int)
 
-# Realizar a junção das tabelas por Município e Ano
-
+# Realizar a junção das tabelas com base nos municípios e anos
 df_integrado = pd.merge(df_desmatamento, df_co2, left_on=['MUNICIPIO', 'ANODETEC'], right_on=['Municípios', 'Ano'], how='inner')
 
-# Remover as colunas duplicadas após a junção
-df_integrado = df_integrado.drop(columns=['Municípios', 'Ano'])
-
 # Exibir as primeiras linhas da tabela integrada
-print(df_integrado.head())
+df_integrado.head()
 
 # Salvando o arquivo final em CSV
-df_integrado.to_csv('dados_integrados.csv', index=False)
+df_integrado.to_csv('dados_integrados.csv', index=False, encoding='utf-8')
 
 ```
 
