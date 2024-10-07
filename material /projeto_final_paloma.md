@@ -115,7 +115,6 @@ print(df2.head())
 df1.info()
 df2.info()
 
-
 ```
 
 
@@ -134,7 +133,6 @@ df2['Categoria'] = df2['Categoria'].astype(str)
 # Exibindo as primeiras linhas dos DataFrames para verificar
 print(df1.head())
 print(df2.head())
-
 
 ```
 
@@ -287,7 +285,7 @@ print(df3.head())
 
 df3.info()
 
-```python
+```
 
 
 
@@ -313,7 +311,6 @@ df3_limpo = df3.drop(columns=colunas_para_remover)
 print(df3_limpo.head())
 
 ```
-
 
 
 ```python
@@ -347,6 +344,7 @@ df3_ANO = df3_limpo.groupby('ANODETEC')['AREAHA'].sum().reset_index()
 print(df3_ANO.head())
 
 ```
+
 
 ```python
 
