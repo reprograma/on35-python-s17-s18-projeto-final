@@ -1,5 +1,8 @@
 # Projeto Final de Análise de Dados
 
+
+**Impacto do Desmatamento e Emissões de CO₂ na Bahia: Uma Análise ambiental no período da Pandemia**
+
 Desenvolvido por:
 
 Paloma Avena palomaavena@gmail.com
@@ -8,16 +11,17 @@ Anne Ribeiro anne.asribeiro@gmail.com
 
 ## Contexto  
 
-Este projeto consiste na criação de um banco de dados e análise destes dados de desmatamento e CO2 do estado da Bahia nos últimos 5 anos.  
+Este projeto tem como foco a criação de um banco de dados e a análise de dados sobre desmatamento e emissões de CO₂ no estado da Bahia nos últimos 5 anos. A partir disso, busca-se entender a relação entre o desmatamento e as emissões de CO₂, analisando possíveis impactos durante o período da pandemia.
 
 
 ## Etapas do projeto:
-1. Selecionar a Base de Dados
-2. Definir Objetivo e Perguntas
-3. Realizar Análise Exploratória
-4. Gerar Base Final
-5. Criar Visualizações no Tableau
-6. Apresentação Final
+
+1.Seleção das Bases de Dados
+2.Definição de Objetivo e Perguntas
+3.Análise Exploratória
+4.Geração da Base Final
+5.Criação de Visualizações no Tableau
+6.Apresentação Final
 
 ---
 
@@ -36,26 +40,24 @@ Este projeto consiste na criação de um banco de dados e análise destes dados 
  
 ### Objetivo Geral:
 
-Este projeto tem como objetivo realizar uma análise exploratória dos dados com o objetivo de identificar variáveis de como as taxas de emissão de CO2 foram impactadas pelo desmatamento nos últimos 5 anos e no período da pandemia.
-
+Realizar uma análise exploratória para identificar como as taxas de emissão de CO₂ foram impactadas pelo desmatamento nos últimos cinco anos, com um olhar específico sobre o período da pandemia.
 
 ### As perguntas norteadoras deste projeto são:  
 
-1. Qual a taxa de desmatamento nos biomas/municípios da Bahia e como ela evoluiu no período de 2019 a 2022?
-2. Qual a taxa de CO2 nos municípios da Bahia e como ela evoluiu no período de 2019 a 2022?
-3. Como o desmatamento na Bahia impacta as taxas de emissão de CO₂? Existe uma relação entre as áreas desmatadas e o aumento de CO2?
-4. Quais regiões da Bahia apresentam as maiores emissões de carbono derivadas do desmatamento?
-5. Houve alguma alteração no período da Pandemia?
+1. Qual foi a taxa de desmatamento nos biomas/municípios da Bahia de 2019 a 2022?
+2. Qual foi a taxa de emissões de CO₂ nos municípios da Bahia nesse mesmo período?
+3. Qual a relação entre desmatamento e as emissões de CO₂ na Bahia?
+4. Quais regiões apresentaram as maiores emissões de CO₂ ligadas ao desmatamento?
+5. Houve alguma mudança significativa durante o período da pandemia?
 ---
 
 ## Ferramentas Utilizadas  
+
 - **Banco de dados** 
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
 - **Google Colab**: Para execução de notebooks de forma colaborativa e em nuvem.
-
----
 
 ### Instalações
 
@@ -106,6 +108,7 @@ df1 = pd.read_csv('SEEG.csv')
 df2 = pd.read_csv('SEEG1.csv')
 
 # Exibindo as primeiras linhas dos DataFrames para verificar
+
 print(df1.head())
 print(df2.head())
 
@@ -113,6 +116,8 @@ print(df2.head())
 
 
 ```python
+
+# Verificar informações gerais dos DataFrames
 
 df1.info()
 df2.info()
@@ -122,24 +127,10 @@ df2.info()
 
 ```python
 
-# Converta todas as colunas de anos para string, por exemplo
+# Converter todas as colunas de anos para string, por exemplo
 
 df1[['2019', '2020', '2021', '2022']] = df1[['2019', '2020', '2021', '2022']].astype(float)
 df2[['2019', '2020', '2021', '2022']] = df2[['2019', '2020', '2021', '2022']].astype(float)
-
-# Converta a coluna Categoria também, se necessário
-df1['Categoria'] = df1['Categoria'].astype(str)
-df2['Categoria'] = df2['Categoria'].astype(str)
-
-
-# Exibindo as primeiras linhas dos DataFrames para verificar
-print(df1.head())
-print(df2.head())
-
-```
-
-
-```python
 
 # Remover espaços em branco no início e no fim dos valores das colunas de chave
 
@@ -147,7 +138,6 @@ df1['Categoria'] = df1['Categoria'].str.strip()
 df2['Categoria'] = df2['Categoria'].str.strip()
 
 
-
 # Exibindo as primeiras linhas dos DataFrames para verificar
 print(df1.head())
 print(df2.head())
@@ -157,17 +147,8 @@ print(df2.head())
 
 ```python
 
-print("Valores únicos de Categoria no df1:", df1['Categoria'].unique())
-print("Valores únicos de Categoria no df2:", df2['Categoria'].unique())
-
-```
-
-
-```python
-
-# Fazendo a mesclagem com base em várias colunas
+# Mesclar os dois DataFrames com base na Categoria e anos
 df_merged = pd.merge(df1, df2, on=['Categoria', '2019', '2020', '2021', '2022'], how='outer', suffixes=('.x', '.y'))
-
 
 # Exibindo as primeiras linhas do arquivo mesclado
 print(df_merged.head())
@@ -192,21 +173,16 @@ df_merged.columns
 
 ```python
 
-# Selecionar as colunas específicas
+# Selecionar colunas relevantes e renomeá-las
 
-df_reduzido = df_merged[['Categoria','2019', '2020', '2021', '2022']]
-print(df_reduzido)
-
-```
-
-
-
-```python
+df_reduzido = df_merged[['Categoria', '2019', '2020', '2021', '2022']].copy()
 
 # Altera os nomes das colunas
 
 df_reduzido.columns = ['Municípios', '2019', '2020', '2021', '2022']
-print(df_reduzido)
+
+# Exibir o DataFrame reduzido
+print(df_reduzido.head())
 
 ```
 
@@ -238,6 +214,8 @@ print(df_sem_duplicatas)
 
 
 ```python
+
+# Transformar os dados para um formato longo (melt)
 
 df_sem_duplicatas = pd.melt(df_sem_duplicatas, id_vars=['Municípios'], value_vars=['2019', '2020', '2021', '2022'], var_name='Ano', value_name='CO2_emitido')
 
@@ -324,7 +302,7 @@ print(df3_limpo.info())
 
 ```python
 
-# Verificar se tem valores faltantes
+# Verificar se tem valores nulo
 
 print(df3_limpo.isnull().sum())
 
@@ -335,25 +313,43 @@ print(df3_limpo.isnull().sum())
 
 # Agrupamentos
 
-df3_MUN = df3_limpo.groupby('MUNICIPIO')['AREAHA'].sum().reset_index()
 
-# Mostrar o resultado
-print(df3_MUN.head())
+# Agrupando os dados por município e ano para obter a área desmatada total
 
-df3_ANO = df3_limpo.groupby('ANODETEC')['AREAHA'].sum().reset_index()
+df3_final = df3_limpo.groupby(['MUNICIPIO', 'ANODETEC'])['AREAHA'].sum().reset_index()
 
-# Mostrar o resultado
-print(df3_ANO.head())
+
+# Salvando o resultado em CSV
+df3_final.to_csv('desmatamento.csv', index=False)
+
+print(df3_final.head())
+
+```
+
+
+### 3. Integração dos Dados de CO₂ e Desmatamento por Município
+
+
+``` python
+
+# Carregar os dados de CO2 e desmatamento já processados
+
+df_co2 = pd.read_csv('co2.csv')
+df_desmatamento = pd.read_csv('desmatamento.csv')
+
+
+# Realizar a junção das tabelas por Município e Ano
+
+df_integrado = pd.merge(df_desmatamento, df_co2, left_on=['MUNICIPIO', 'ANODETEC'], right_on=['Municípios', 'Ano'], how='inner')
+
+# Remover as colunas duplicadas após a junção
+df_integrado = df_integrado.drop(columns=['Municípios', 'Ano'])
+
+# Exibir as primeiras linhas da tabela integrada
+print(df_integrado.head())
+
+# Salvando o arquivo final em CSV
+df_integrado.to_csv('dados_integrados.csv', index=False)
 
 ```
 
-
-```python
-
-# Salvando o arquivo final em um novo CSV
-
-df3_limpo.to_csv('desmatamento.csv', index=False)
-
-print(df3_limpo)
-
-```
