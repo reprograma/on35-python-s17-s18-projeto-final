@@ -10,6 +10,7 @@ Anne Ribeiro anne.asribeiro@gmail.com
 
 Este projeto consiste na criação de um banco de dados e análise destes dados de desmatamento e CO2 do estado da Bahia nos últimos 5 anos.  
 
+
 ## Etapas do projeto:
 1. Selecionar a Base de Dados
 2. Definir Objetivo e Perguntas
@@ -35,7 +36,8 @@ Este projeto consiste na criação de um banco de dados e análise destes dados 
  
 ### Objetivo Geral:
 
-Criar um banco de dados e realizar uma análise dos dados com o objetivo de identificar variáveis de como o desmatamento na Bahia impacta nas taxas de emissão de CO2.
+Este projeto tem como objetivo realizar uma análise exploratória dos dados com o objetivo de identificar variáveis de como as taxas de emissão de CO2 foram impactadas pelo desmatamento nos últimos 5 anos e no período da pandemia.
+
 
 ### As perguntas norteadoras deste projeto são:  
 
