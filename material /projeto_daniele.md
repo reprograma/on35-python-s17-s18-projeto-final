@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na **analise dos maiores canais do Youtube**.  
+Este projeto consiste na **Análise Exploratória dos Dados do YouTube**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
@@ -23,12 +23,14 @@ Este projeto consiste na **analise dos maiores canais do Youtube**.
 Realizar uma análise dos dados com o objetivo de **[gerar insights sobre os canais mais populares da plataforma Youtube, rankear número de inscritos por país de origem e visualizações de vídeo]**.  
 
 ### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-A base de dados "Global YouTube Statistics 2023, Kaggle" contem dados com informações sobre múltiplos canais de YouTube de forma global.
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+1. **[Pergunta sobre o perfil dos dados]** - 
+A base de dados "Global YouTube Statistics 2023, Kaggle" contém dados com informações sobre múltiplos canais do YouTube de forma global.
+2. **[Pergunta comparativa]** - Qual o faturamento dos maiores canais da plataforma no Brasil e qual o faturamento dos maiores canais do mundo?
+3. **[Pergunta relacional]** - existe relacao de usuarios matriculados no ensino superior e utilizacao da plataforma?  
+4. **[Pergunta exploratória]** - Quais os maiores canais da plataforma, quais paises mais assistem videos, rank dos paises com o maior numero de inscritos
 
+
+"Com a minha analise eu gostaria de apresentar:  Quais são as principais características da base de dados selecionada, quantas visualizações os maiores canais da plataforma recebem e qual o faturamento estimado deles no Brasil e no mundo, trazer as categorias com mais visualizações e se existe relacao de usuarios matriculados no ensino superior e utilizacao da plataforma"
 ---
 
 ## Ferramentas Utilizadas  
