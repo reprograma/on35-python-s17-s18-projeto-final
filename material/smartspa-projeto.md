@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise da **Clinica Smart Spa**.  
+Este projeto consiste na análise da **Análise do Perfil do Cliente - Clinica Smart Spa**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -15,14 +15,13 @@ Este projeto consiste na análise da **Clinica Smart Spa**.
 
 ## Bases Escolhidas  
 - **Base 1**: Pacientes  
-- **Base 2**: Financeiro   
 
 ---
  
 ### Objetivo Geral:
 
 **Realizar uma análise dos dados com o objetivo de**
-**Identificar  melhorias para o CRM da clinica para ter uma melhor comunicação com os pacientes e assim ter um retenção maior de pacientes, analisar o desempenho da atendimentos e os procedimentos mais procurados pelos paciente.
+**O objetivo principal é obter um entendimento profundo e detalhado sobre seus clientes. 
 
 ### As perguntas norteadoras deste projeto são:  
 
@@ -30,11 +29,17 @@ Este projeto consiste na análise da **Clinica Smart Spa**.
      Qual a faixa etária predominante dos clientes? Há alguma concentração em grupos específicos?
      Qual a proporção de clientes do sexo masculino e feminino?
      De onde vêm os clientes?
-     Qual a média de frequencia das visitas? 
+     Qual a média de frequencia das visitas?
+     Qual o valor médio gasto por cliente por visita?
+	Qual a frequência média de visitas por cliente?
+	Existe alguma correlação entre o valor gasto e a frequência de visitas?
+	Qual o perfil do cliente que mais gasta?
    
-3. **[Pergunta comparativa]** - Comparação das desempenho das vendas e clientes novos, no pós pandemia?  
-4. **[Pergunta relacional]** - Correlação entre tratamentos e idade?(É comum observar uma correlação entre determinados tratamentos estéticos e faixas etárias específicas)
-5. **[Pergunta exploratória]** 
+2. **[Pergunta comparativa]** 
+     Qual a porcentagem de clientes que retornaram após a primeira visita?
+     Qual o tempo médio entre as visitas dos clientes que retornaram?
+     Existe alguma diferença no perfil dos clientes que retornaram em relação aos que não retornaram?
+
 
 ---
 
