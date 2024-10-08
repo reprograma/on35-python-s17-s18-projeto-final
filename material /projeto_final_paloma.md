@@ -446,3 +446,24 @@ plt.show()
 
 ```
 
+## 5. Banco de dados
+
+
+## 6. Considerações
+
+Correlações:
+Área Desmatada (AREAHHA): 1 (correlação perfeita consigo mesma).
+CO₂ Emitido (CO₂_emitido): 1 (correlação perfeita consigo mesma).
+Correlação entre Área Desmatada e CO₂ Emitido: 0.19.
+
+A correlação 1 indica uma correlação positiva perfeita (quando uma variável aumenta, a outra também aumenta).
+A correlação -1 indica uma correlação negativa perfeita (quando uma variável aumenta, a outra diminui).
+0 indica nenhuma correlação.
+0.19 é uma correlação fraca e positiva:
+
+Significa que, em geral, há uma leve tendência de que, à medida que a área desmatada aumenta, as emissões de CO₂ também aumentam. No entanto, a correlação é fraca, o que significa que essa relação não é forte ou confiável. Ou seja há uma correlação positiva fraca entre desmatamento e CO₂ emitido, mas ela não é forte o suficiente para concluir que um aumento no desmatamento leva a um aumento significativo nas emissões de CO₂. Uma correlação fraca indica que outros fatores podem estar influenciando as emissões de CO₂ (ou consumo de CO2), e mais análises seriam necessárias para entender essa dinâmica.
+
+
+Conclusão
+
+Como há uma relação fraca, não podemos afirmar que existe uma correlação forte ou direta entre desmatamento e CO₂ emitido com base nos dados apresentados no éríodo analisado. Isso significa que, enquanto algumas áreas desmatadas podem contribuir para emissões de CO₂, a relação não é consistente o suficiente para prever as emissões apenas com base na área desmatada.
