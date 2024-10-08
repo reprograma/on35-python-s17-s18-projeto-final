@@ -327,7 +327,7 @@ print(df3_final.head())
 ```
 
 
-### 3. Integração dos Dados de CO₂ e Desmatamento por Município
+## 3. Integração dos Dados de CO₂ e Desmatamento por Município
 
 
 ``` python
@@ -351,6 +351,98 @@ df_integrado.head()
 
 # Salvando o arquivo final em CSV
 df_integrado.to_csv('dados_integrados.csv', index=False, encoding='utf-8')
+
+```
+
+## 4. Visualização
+
+```python
+
+# Importar bibliotecas necessárias
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Carregar os dados integrados
+df_integrado = pd.read_csv('dados_integrados.csv')
+
+# Exibir as primeiras linhas do DataFrame para verificar se os dados foram carregados corretamente
+print(df_integrado.head())
+
+# Definir o estilo para os gráficos
+sns.set(style="whitegrid")
+
+# 1. Gráfico de barras: Desmatamento total por ano
+plt.figure(figsize=(10,6))
+sns.barplot(x='ANODETEC', y='AREAHA', data=df_integrado, estimator=sum, ci=None, color='teal')
+plt.title('Total de Área Desmatada por Ano (Bahia)', fontsize=14)
+plt.xlabel('Ano', fontsize=12)
+plt.ylabel('Área Desmatada (ha)', fontsize=12)
+plt.xticks(rotation=45)
+plt.show()
+
+# 2. Gráfico de linha: Emissões de CO₂ por ano
+plt.figure(figsize=(10,6))
+sns.lineplot(x='Ano', y='CO2_emitido', data=df_integrado, marker='o', color='orange')
+plt.title('Emissões de CO₂ por Ano (Bahia)', fontsize=14)
+plt.xlabel('Ano', fontsize=12)
+plt.ylabel('Emissões de CO₂ (ton)', fontsize=12)
+plt.xticks(rotation=45)
+plt.show()
+
+# 3. Gráfico de dispersão: Relação entre área desmatada e CO₂ emitido
+plt.figure(figsize=(10,6))
+sns.scatterplot(x='AREAHA', y='CO2_emitido', data=df_integrado, hue='Ano', palette='coolwarm', s=100)
+plt.title('Relação entre Área Desmatada e CO₂ Emitido', fontsize=14)
+plt.xlabel('Área Desmatada (ha)', fontsize=12)
+plt.ylabel('CO₂ Emitido (ton)', fontsize=12)
+plt.legend(title='Ano')
+plt.show()
+
+# 4. Gráfico de barras empilhadas: Desmatamento e CO₂ emitido nos 10 municípios com mais desmatamento
+plt.figure(figsize=(12,7))
+
+# Selecionar os 10 municípios com maiores áreas desmatadas
+municipios_mais_desmatados = df_integrado.groupby('MUNICIPIO')['AREAHA'].sum().nlargest(10).index
+
+# Filtrar o DataFrame para incluir apenas os 10 municípios selecionados
+df_municipios_desmatados = df_integrado[df_integrado['MUNICIPIO'].isin(municipios_mais_desmatados)]
+
+# Criar gráfico de barras empilhadas com área desmatada e CO₂ emitido
+sns.barplot(x='MUNICIPIO', y='CO2_emitido', data=df_municipios_desmatados, hue='ANODETEC', ci=None, palette='viridis')
+plt.title('Emissões de CO₂ nos 10 Municípios com Mais Desmatamento por Ano', fontsize=14)
+plt.xlabel('Município', fontsize=12)
+plt.ylabel('Emissões de CO₂ (ton)', fontsize=12)
+plt.xticks(rotation=45)
+plt.legend(title='Ano')
+plt.show()
+
+# 5. Gráfico de calor: Correlação entre desmatamento e CO₂ emitido
+plt.figure(figsize=(8,6))
+correlation_matrix = df_integrado[['AREAHA', 'CO2_emitido']].corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+plt.title('Correlação entre Desmatamento e CO₂ Emitido', fontsize=14)
+plt.show()
+
+# 6. Gráficos separados: Desmatamento e CO₂ por município para os 10 municípios mais desmatados
+fig, axs = plt.subplots(2, 1, figsize=(12, 10))
+
+# Gráfico de barras para desmatamento nos 10 municípios mais desmatados
+sns.barplot(x='MUNICIPIO', y='AREAHA', data=df_municipios_desmatados, estimator=sum, ci=None, ax=axs[0], color='teal')
+axs[0].set_title('Área Desmatada nos 10 Municípios (Bahia)', fontsize=14)
+axs[0].set_xlabel('Município', fontsize=12)
+axs[0].set_ylabel('Área Desmatada (ha)', fontsize=12)
+axs[0].set_xticklabels(axs[0].get_xticklabels(), rotation=45)
+
+# Gráfico de barras para CO₂ nos 10 municípios mais desmatados
+sns.barplot(x='MUNICIPIO', y='CO2_emitido', data=df_municipios_desmatados, estimator=sum, ci=None, ax=axs[1], color='orange')
+axs[1].set_title('Emissões de CO₂ nos 10 Municípios (Bahia)', fontsize=14)
+axs[1].set_xlabel('Município', fontsize=12)
+axs[1].set_ylabel('Emissões de CO₂ (ton)', fontsize=12)
+axs[1].set_xticklabels(axs[1].get_xticklabels(), rotation=45)
+
+plt.tight_layout()
+plt.show()
 
 ```
 
