@@ -1,0 +1,1082 @@
+﻿Data;Vencimento;Comanda;Categoria;Descrição;Realizado;Valor
+;;;;;;
+01/04/2018;01/04/2018;5;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+01/04/2018;01/04/2018;4;Pagamento;Dinheiro;Sim;R$ 100,00
+06/04/2018;06/04/2018;6;Pagamento;Crédito Visa Master 1x;Sim;R$ 102,00
+;;;;;;
+;;;;;;
+10/04/2018;12/04/2018;17;Pagamento;Cartão de Débito;Sim;R$ 30,00
+;;;;;;
+;;;;;;
+10/04/2018;11/04/2018;9;Pagamento;Débito Visa Master;Sim;R$ 110,00
+;;;;;;
+;;;;;;
+10/04/2018;10/04/2018;65;Pagamento;CREDITO ELO;Sim;R$ 800,00
+;;;;;;
+;;;;;;
+10/04/2018;10/04/2018;20;Pagamento;Crédito Visa Master 1x;Sim;R$ 102,00
+10/04/2018;10/04/2018;19;Pagamento;Crédito Visa Master 1x;Sim;R$ 102,00
+;;;;;;
+10/04/2018;10/04/2018;12;Pagamento;Dinheiro;Sim;R$ 55,00
+;;;;;;
+;;;;;;
+10/04/2018;10/04/2018;11;Pagamento;Dinheiro;Sim;R$ 75,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+13/04/2018;13/04/2018;61;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+13/04/2018;13/04/2018;60;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+13/04/2018;13/04/2018;34;Pagamento;Crédito Visa Master 1x;Sim;R$ 102,00
+;;;;;;
+;;;;;;
+;;;;;;
+14/04/2018;15/04/2018;64;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+17/04/2018;17/04/2018;76;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+17/04/2018;17/04/2018;47;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+18/04/2018;20/04/2018;35;Pagamento;Cartão de Débito;Sim;R$ 100,00
+18/04/2018;18/04/2018;69;Pagamento;Dinheiro;Sim;R$ 120,00
+18/04/2018;18/04/2018;68;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+18/04/2018;18/04/2018;38;Pagamento;Dinheiro;Sim;R$ 69,00
+;;;;;;
+18/04/2018;18/04/2018;22;Pagamento;Crédito Visa Master 1x;Sim;R$ 25,50
+19/04/2018;19/04/2018;70;Pagamento;DEBITO ELO;Sim;R$ 120,00
+;;;;;;
+21/04/2018;23/04/2018;75;Pagamento;Cartão de Débito;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+21/04/2018;23/04/2018;74;Pagamento;Cartão de Débito;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+21/04/2018;21/04/2018;73;Pagamento;Dinheiro;Sim;R$ 30,60
+;;;;;;
+23/04/2018;23/04/2018;77;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+24/04/2018;24/04/2018;79;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+24/04/2018;24/04/2018;78;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+25/04/2018;25/04/2018;82;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+25/04/2018;25/04/2018;81;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+26/04/2018;27/04/2018;62;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 131,75
+26/04/2018;27/04/2018;59;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 102,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+26/04/2018;27/04/2018;48;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 550,00
+26/04/2018;27/04/2018;39;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 102,00
+26/04/2018;27/04/2018;36;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 102,00
+;;;;;;
+;;;;;;
+26/04/2018;27/04/2018;33;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+26/04/2018;27/04/2018;32;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 102,00
+;;;;;;
+26/04/2018;27/04/2018;30;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 102,00
+;;;;;;
+;;;;;;
+26/04/2018;26/04/2018;84;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+27/04/2018;27/04/2018;85;Pagamento;Dinheiro;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+28/04/2018;29/04/2018;88;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+28/04/2018;29/04/2018;87;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+28/04/2018;29/04/2018;86;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+28/04/2018;28/04/2018;89;Pagamento;Dinheiro;Sim;R$ 120,00
+30/04/2018;01/05/2018;94;Pagamento;Crédito Visa Master 1x;Sim;R$ 60,00
+;;;;;;
+30/04/2018;01/05/2018;93;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+30/04/2018;01/05/2018;92;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+02/05/2018;03/05/2018;98;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+02/05/2018;03/05/2018;97;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+03/05/2018;04/05/2018;127;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+03/05/2018;03/05/2018;100;Pagamento;Dinheiro;Sim;R$ 120,00
+03/05/2018;03/05/2018;99;Pagamento;Dinheiro;Sim;R$ 75,00
+05/05/2018;05/05/2018;106;Pagamento;Crédito Amex 1x;Sim;R$ 110,00
+;;;;;;
+05/05/2018;05/05/2018;105;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+05/05/2018;05/05/2018;102;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+07/05/2018;08/05/2018;107;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+07/05/2018;07/05/2018;108;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+09/05/2018;10/05/2018;112;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+09/05/2018;10/05/2018;111;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+10/05/2018;11/05/2018;121;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+10/05/2018;11/05/2018;120;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+10/05/2018;10/05/2018;119;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+10/05/2018;10/05/2018;118;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+10/05/2018;10/05/2018;117;Pagamento;Dinheiro;Sim;R$ 50,00
+;;;;;;
+;;;;;;
+10/05/2018;10/05/2018;116;Pagamento;Dinheiro;Sim;R$ 100,00
+10/05/2018;10/05/2018;115;Pagamento;Dinheiro;Sim;R$ 100,00
+10/05/2018;10/05/2018;113;Pagamento;Dinheiro;Sim;R$ 150,00
+11/05/2018;12/05/2018;124;Pagamento;Débito Elo;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+14/05/2018;15/05/2018;126;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+14/05/2018;15/05/2018;125;Pagamento;Débito Visa Master;Sim;R$ 120,00
+15/05/2018;16/05/2018;128;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+15/05/2018;15/05/2018;131;Pagamento;Dinheiro;Sim;R$ 20,00
+;;;;;;
+;;;;;;
+;;;;;;
+15/05/2018;15/05/2018;129;Pagamento;Dinheiro;Sim;R$ 120,00
+16/05/2018;16/05/2018;133;Pagamento;Dinheiro;Sim;R$ 120,00
+16/05/2018;16/05/2018;132;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+17/05/2018;18/05/2018;139;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+17/05/2018;18/05/2018;138;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+17/05/2018;18/05/2018;137;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+17/05/2018;18/05/2018;135;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+17/05/2018;18/05/2018;134;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+17/05/2018;17/05/2018;136;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+18/05/2018;19/05/2018;143;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+18/05/2018;18/05/2018;142;Pagamento;Dinheiro;Sim;R$ 149,00
+19/05/2018;20/05/2018;141;Pagamento;Débito Visa Master;Sim;R$ 120,00
+19/05/2018;19/05/2018;145;Pagamento;Dinheiro;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+22/05/2018;23/05/2018;152;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+22/05/2018;22/05/2018;149;Pagamento;Dinheiro;Sim;R$ 120,00
+23/05/2018;24/05/2018;161;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+23/05/2018;24/05/2018;157;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+23/05/2018;23/05/2018;160;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+23/05/2018;23/05/2018;155;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+25/05/2018;26/05/2018;163;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+25/05/2018;25/05/2018;164;Pagamento;Dinheiro;Sim;R$ 149,00
+;;;;;;
+;;;;;;
+;;;;;;
+26/05/2018;26/05/2018;165;Pagamento;Dinheiro;Sim;R$ 100,00
+28/05/2018;29/05/2018;170;Pagamento;Débito Visa Master;Sim;R$ 149,00
+;;;;;;
+28/05/2018;29/05/2018;169;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+01/06/2018;02/06/2018;175;Pagamento;Crédito Visa Master 3x - 3x antec.;Sim;R$ 900,00
+;;;;;;
+01/06/2018;02/06/2018;173;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+02/06/2018;03/06/2018;177;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+04/06/2018;05/06/2018;180;Pagamento;Crédito Visa Master 6x - 6x antec.;Sim;R$ 1.260,00
+05/06/2018;06/06/2018;183;Pagamento;Débito Elo;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+05/06/2018;06/06/2018;182;Pagamento;Débito Elo;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+06/06/2018;07/06/2018;185;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+08/06/2018;09/06/2018;191;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+08/06/2018;08/06/2018;189;Pagamento;Dinheiro;Sim;R$ 200,00
+;;;;;;
+11/06/2018;12/06/2018;192;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+13/06/2018;14/06/2018;197;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+13/06/2018;14/06/2018;196;Pagamento;Crédito Visa Master 1x;Sim;R$ 90,00
+;;;;;;
+;;;;;;
+14/06/2018;15/06/2018;203;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+14/06/2018;15/06/2018;201;Pagamento;Crédito Visa Master 1x;Sim;R$ 200,00
+14/06/2018;15/06/2018;198;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+15/06/2018;16/06/2018;207;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+15/06/2018;16/06/2018;205;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+19/06/2018;20/06/2018;215;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+19/06/2018;20/06/2018;213;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+19/06/2018;20/06/2018;212;Pagamento;Crédito Amex 1x;Não;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+20/06/2018;21/06/2018;216;Pagamento;Débito Visa Master;Sim;R$ 120,00
+21/06/2018;22/06/2018;221;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+21/06/2018;22/06/2018;220;Pagamento;Débito Visa Master;Sim;R$ 150,00
+;;;;;;
+;;;;;;
+21/06/2018;21/06/2018;218;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+21/06/2018;21/06/2018;217;Pagamento;Dinheiro;Sim;R$ 150,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+22/06/2018;23/06/2018;223;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+23/06/2018;24/06/2018;226;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+23/06/2018;24/06/2018;225;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+;;;;;;
+23/06/2018;24/06/2018;222;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+25/06/2018;26/06/2018;227;Pagamento;Débito Visa Master;Sim;R$ 80,00
+26/06/2018;27/06/2018;229;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+28/06/2018;28/06/2018;230;Pagamento;Dinheiro;Sim;R$ 120,00
+29/06/2018;30/06/2018;233;Pagamento;Crédito Amex 1x;Não;R$ 100,00
+;;;;;;
+29/06/2018;30/06/2018;232;Pagamento;Crédito Visa Master 1x;Sim;R$ 75,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+29/06/2018;29/06/2018;235;Pagamento;Dinheiro;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+30/06/2018;01/07/2018;241;Pagamento;Crédito Visa Master 1x;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+30/06/2018;01/07/2018;240;Pagamento;Crédito Visa Master 1x;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+30/06/2018;01/07/2018;239;Pagamento;Débito Visa Master;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+;;;;;;
+30/06/2018;01/07/2018;238;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+02/07/2018;03/07/2018;242;Pagamento;Débito Visa Master;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+;;;;;;
+03/07/2018;04/07/2018;244;Pagamento;Débito Visa Master;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+03/07/2018;03/07/2018;245;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+03/07/2018;03/07/2018;231;Pagamento;Dinheiro;Sim;R$ 29,70
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+04/07/2018;05/07/2018;249;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+04/07/2018;05/07/2018;248;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+06/07/2018;07/07/2018;255;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+06/07/2018;07/07/2018;254;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+;;;;;;
+06/07/2018;06/07/2018;253;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+07/07/2018;08/07/2018;261;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+07/07/2018;08/07/2018;259;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+07/07/2018;08/07/2018;258;Pagamento;Débito Visa Master;Sim;R$ 120,00
+07/07/2018;08/07/2018;257;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+07/07/2018;07/07/2018;257;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+09/07/2018;10/07/2018;266;Pagamento;Crédito Elo 3x - 3x antec.;Sim;R$ 900,00
+09/07/2018;10/07/2018;264;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+09/07/2018;10/07/2018;263;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+10/07/2018;11/07/2018;268;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+10/07/2018;11/07/2018;267;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+11/07/2018;12/07/2018;270;Pagamento;Débito Visa Master;Sim;R$ 120,00
+12/07/2018;13/07/2018;273;Pagamento;Crédito Visa Master 3x - 3x antec.;Sim;R$ 600,00
+;;;;;;
+;;;;;;
+12/07/2018;12/07/2018;273;Pagamento;Dinheiro;Sim;R$ 300,00
+;;;;;;
+;;;;;;
+;;;;;;
+13/07/2018;14/07/2018;275;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+13/07/2018;13/07/2018;276;Pagamento;Dinheiro;Sim;R$ 110,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+14/07/2018;15/07/2018;279;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+17/07/2018;18/07/2018;281;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+18/07/2018;19/07/2018;289;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+18/07/2018;19/07/2018;285;Pagamento;Crédito Visa Master 6x - 6x antec.;Sim;R$ 1.000,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+19/07/2018;20/07/2018;293;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+19/07/2018;20/07/2018;292;Pagamento;Débito Visa Master;Sim;R$ 20,00
+;;;;;;
+;;;;;;
+;;;;;;
+19/07/2018;20/07/2018;290;Pagamento;Débito Visa Master;Sim;R$ 140,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+19/07/2018;20/07/2018;286;Pagamento;Crédito Visa Master 6x;Sim;R$ 200,00
+21/07/2018;22/07/2018;302;Pagamento;Crédito Amex 1x;Não;R$ 149,00
+;;;;;;
+;;;;;;
+;;;;;;
+21/07/2018;22/07/2018;301;Pagamento;Crédito Amex 1x;Não;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+21/07/2018;22/07/2018;299;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+21/07/2018;22/07/2018;298;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+23/07/2018;24/07/2018;303;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+24/07/2018;24/07/2018;307;Pagamento;Dinheiro;Sim;R$ 130,00
+;;;;;;
+;;;;;;
+24/07/2018;24/07/2018;306;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+26/07/2018;27/07/2018;310;Pagamento;Crédito Visa Master 1x;Sim;R$ 110,00
+;;;;;;
+;;;;;;
+26/07/2018;26/07/2018;313;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+26/07/2018;26/07/2018;312;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+27/07/2018;28/07/2018;316;Pagamento;Crédito Visa Master 1x;Sim;R$ 340,00
+;;;;;;
+28/07/2018;29/07/2018;319;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+28/07/2018;28/07/2018;320;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+30/07/2018;31/07/2018;318;Pagamento;Crédito Visa Master 1x;Sim;R$ 300,00
+31/07/2018;31/07/2018;322;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+01/08/2018;01/08/2018;325;Pagamento;Dinheiro;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+03/08/2018;03/08/2018;327;Pagamento;Dinheiro;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+;;;;;;
+06/08/2018;07/08/2018;333;Pagamento;Débito Visa Master;Sim;R$ 120,00
+06/08/2018;07/08/2018;332;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+06/08/2018;07/08/2018;330;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+06/08/2018;06/08/2018;329;Pagamento;Dinheiro;Sim;R$ 80,00
+07/08/2018;08/08/2018;336;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+07/08/2018;07/08/2018;339;Pagamento;Dinheiro;Sim;R$ 205,00
+08/08/2018;09/08/2018;340;Pagamento;Débito Visa Master;Sim;R$ 150,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+08/08/2018;08/08/2018;338;Pagamento;Dinheiro;Sim;R$ 60,00
+09/08/2018;09/08/2018;341;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+10/08/2018;10/08/2018;344;Pagamento;Dinheiro;Sim;R$ 120,00
+10/08/2018;10/08/2018;343;Pagamento;Dinheiro;Sim;R$ 150,00
+;;;;;;
+11/08/2018;12/08/2018;346;Pagamento;Crédito Visa Master 1x;Sim;R$ 98,00
+;;;;;;
+13/08/2018;14/08/2018;347;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+15/08/2018;16/08/2018;348;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+15/08/2018;15/08/2018;350;Pagamento;Dinheiro;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+16/08/2018;17/08/2018;353;Pagamento;Débito Visa Master;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+16/08/2018;17/08/2018;351;Pagamento;Crédito Visa Master 1x;Sim;R$ 200,00
+17/08/2018;18/08/2018;352;Pagamento;Débito Visa Master;Sim;R$ 99,00
+;;;;;;
+;;;;;;
+;;;;;;
+17/08/2018;17/08/2018;354;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+18/08/2018;19/08/2018;356;Pagamento;Crédito Amex 1x;Não;R$ 120,00
+18/08/2018;19/08/2018;355;Pagamento;Débito Visa Master;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+20/08/2018;21/08/2018;358;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+20/08/2018;21/08/2018;357;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+21/08/2018;22/08/2018;361;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+21/08/2018;22/08/2018;360;Pagamento;Débito Visa Master;Sim;R$ 100,00
+24/08/2018;24/08/2018;364;Pagamento;Dinheiro;Sim;R$ 80,00
+25/08/2018;26/08/2018;366;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+27/08/2018;28/08/2018;367;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+27/08/2018;28/08/2018;365;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+30/08/2018;31/08/2018;370;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+31/08/2018;01/09/2018;373;Pagamento;Débito Visa Master;Sim;R$ 141,00
+;;;;;;
+;;;;;;
+01/09/2018;01/09/2018;374;Pagamento;Dinheiro;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+04/09/2018;04/09/2018;376;Pagamento;Dinheiro;Sim;R$ 90,00
+;;;;;;
+07/09/2018;08/09/2018;379;Pagamento;Débito Visa Master;Sim;R$ 50,00
+;;;;;;
+08/09/2018;09/09/2018;383;Pagamento;Débito Visa Master;Sim;R$ 125,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+08/09/2018;09/09/2018;382;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+08/09/2018;08/09/2018;384;Pagamento;Dinheiro;Sim;R$ 125,00
+;;;;;;
+;;;;;;
+;;;;;;
+10/09/2018;10/09/2018;385;Pagamento;Dinheiro;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+11/09/2018;11/09/2018;387;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+12/09/2018;13/09/2018;389;Pagamento;Crédito Visa Master 1x;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+13/09/2018;14/09/2018;392;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+13/09/2018;14/09/2018;390;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+13/09/2018;13/09/2018;391;Pagamento;Dinheiro;Sim;R$ 100,00
+14/09/2018;15/09/2018;393;Pagamento;Crédito Hiper 1x;Sim;R$ 69,00
+;;;;;;
+;;;;;;
+;;;;;;
+14/09/2018;14/09/2018;393;Pagamento;Dinheiro;Sim;R$ 50,00
+;;;;;;
+15/09/2018;16/09/2018;394;Pagamento;Débito Visa Master;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+17/09/2018;18/09/2018;395;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+19/09/2018;19/09/2018;397;Pagamento;Dinheiro;Sim;R$ 385,00
+;;;;;;
+;;;;;;
+19/09/2018;19/09/2018;396;Pagamento;Dinheiro;Sim;R$ 20,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+20/09/2018;20/09/2018;404;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+20/09/2018;20/09/2018;403;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+20/09/2018;20/09/2018;399;Pagamento;Dinheiro;Sim;R$ 190,00
+;;;;;;
+21/09/2018;22/09/2018;431;Pagamento;Débito Visa Master;Sim;R$ 150,00
+;;;;;;
+;;;;;;
+21/09/2018;22/09/2018;421;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+21/09/2018;21/09/2018;431;Pagamento;Dinheiro;Sim;R$ 50,00
+;;;;;;
+;;;;;;
+22/09/2018;23/09/2018;435;Pagamento;Débito Visa Master;Sim;R$ 240,00
+;;;;;;
+;;;;;;
+24/09/2018;25/09/2018;436;Pagamento;Débito Elo;Sim;R$ 119,00
+;;;;;;
+25/09/2018;26/09/2018;439;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+26/09/2018;27/09/2018;441;Pagamento;Crédito Amex 1x;Não;R$ 119,00
+;;;;;;
+;;;;;;
+29/09/2018;30/09/2018;447;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+29/09/2018;30/09/2018;445;Pagamento;Crédito Amex 1x;Não;R$ 149,00
+01/10/2018;02/10/2018;449;Pagamento;Crédito Amex 1x;Não;R$ 119,00
+;;;;;;
+03/10/2018;04/10/2018;453;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 630,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+03/10/2018;04/10/2018;451;Pagamento;Crédito Visa Master 1x;Sim;R$ 209,00
+;;;;;;
+;;;;;;
+04/10/2018;05/10/2018;457;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+05/10/2018;06/10/2018;459;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+;;;;;;
+06/10/2018;07/10/2018;460;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+09/10/2018;09/10/2018;464;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+11/10/2018;12/10/2018;467;Pagamento;Débito Visa Master;Sim;R$ 250,00
+;;;;;;
+;;;;;;
+;;;;;;
+11/10/2018;12/10/2018;466;Pagamento;Débito Visa Master;Sim;R$ 119,00
+12/10/2018;13/10/2018;476;Pagamento;Débito Visa Master;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+12/10/2018;13/10/2018;475;Pagamento;Débito Visa Master;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+12/10/2018;12/10/2018;474;Pagamento;Dinheiro;Sim;R$ 151,00
+;;;;;;
+;;;;;;
+12/10/2018;12/10/2018;471;Pagamento;Dinheiro;Sim;R$ 119,00
+;;;;;;
+12/10/2018;12/10/2018;469;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+12/10/2018;12/10/2018;468;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+13/10/2018;14/10/2018;477;Pagamento;Débito Visa Master;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+15/10/2018;16/10/2018;482;Pagamento;Crédito Elo 1x;Sim;R$ 170,00
+;;;;;;
+15/10/2018;16/10/2018;481;Pagamento;Crédito Elo 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+15/10/2018;16/10/2018;479;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+15/10/2018;16/10/2018;478;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+16/10/2018;17/10/2018;484;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+16/10/2018;16/10/2018;487;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+17/10/2018;18/10/2018;490;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+17/10/2018;18/10/2018;488;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+18/10/2018;18/10/2018;493;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+19/10/2018;20/10/2018;497;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+19/10/2018;19/10/2018;496;Pagamento;Dinheiro;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+20/10/2018;21/10/2018;504;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+20/10/2018;21/10/2018;498;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+;;;;;;
+20/10/2018;20/10/2018;501;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+20/10/2018;20/10/2018;500;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+;;;;;;
+22/10/2018;23/10/2018;508;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+22/10/2018;23/10/2018;507;Pagamento;Débito Visa Master;Sim;R$ 210,00
+;;;;;;
+;;;;;;
+22/10/2018;23/10/2018;506;Pagamento;Crédito Amex 1x;Não;R$ 119,00
+;;;;;;
+22/10/2018;23/10/2018;503;Pagamento;Crédito Visa Master 1x;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+24/10/2018;25/10/2018;514;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+24/10/2018;25/10/2018;511;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+25/10/2018;26/10/2018;522;Pagamento;Débito Visa Master;Sim;R$ 500,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+25/10/2018;26/10/2018;522;Pagamento;Crédito Visa Master 2x - 2x antec.;Sim;R$ 400,00
+;;;;;;
+;;;;;;
+25/10/2018;26/10/2018;517;Pagamento;Débito Visa Master;Sim;R$ 177,65
+;;;;;;
+;;;;;;
+25/10/2018;26/10/2018;516;Pagamento;Crédito Visa Master 3x - 3x antec.;Sim;R$ 750,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+25/10/2018;25/10/2018;521;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+25/10/2018;25/10/2018;520;Pagamento;Dinheiro;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+;;;;;;
+26/10/2018;27/10/2018;529;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+26/10/2018;27/10/2018;527;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+26/10/2018;27/10/2018;526;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+26/10/2018;27/10/2018;524;Pagamento;Débito Elo;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+26/10/2018;27/10/2018;523;Pagamento;Crédito Visa Master 1x;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+26/10/2018;26/10/2018;525;Pagamento;Dinheiro;Sim;R$ 144,55
+27/10/2018;28/10/2018;528;Pagamento;Débito Visa Master;Sim;R$ 85,00
+29/10/2018;30/10/2018;531;Pagamento;Crédito Visa Master 1x;Sim;R$ 127,00
+;;;;;;
+;;;;;;
+29/10/2018;29/10/2018;530;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+31/10/2018;31/10/2018;549;Pagamento;Dinheiro;Sim;R$ 250,00
+;;;;;;
+;;;;;;
+;;;;;;
+31/10/2018;31/10/2018;535;Pagamento;Dinheiro;Sim;R$ 72,25
+31/10/2018;31/10/2018;533;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+;;;;;;
+01/11/2018;01/11/2018;536;Pagamento;Dinheiro;Sim;R$ 72,25
+02/11/2018;03/11/2018;537;Pagamento;Crédito Visa Master 1x;Sim;R$ 217,00
+;;;;;;
+;;;;;;
+03/11/2018;04/11/2018;538;Pagamento;Crédito Visa Master 1x;Sim;R$ 209,00
+;;;;;;
+;;;;;;
+03/11/2018;03/11/2018;539;Pagamento;Dinheiro;Sim;R$ 78,00
+;;;;;;
+05/11/2018;06/11/2018;544;Pagamento;Débito Visa Master;Sim;R$ 177,65
+;;;;;;
+;;;;;;
+05/11/2018;05/11/2018;543;Pagamento;Dinheiro;Sim;R$ 144,55
+;;;;;;
+;;;;;;
+05/11/2018;05/11/2018;542;Pagamento;Dinheiro;Sim;R$ 144,55
+07/11/2018;07/11/2018;610;Pagamento;Dinheiro;Sim;R$ 123,00
+08/11/2018;09/11/2018;552;Pagamento;Crédito Visa Master 1x;Sim;R$ 136,00
+08/11/2018;09/11/2018;550;Pagamento;Débito Visa Master;Sim;R$ 250,00
+;;;;;;
+;;;;;;
+;;;;;;
+08/11/2018;08/11/2018;551;Pagamento;Dinheiro;Sim;R$ 120,00
+08/11/2018;08/11/2018;547;Pagamento;Dinheiro;Sim;R$ 85,00
+09/11/2018;10/11/2018;621;Pagamento;Crédito Visa Master 3x - 3x antec.;Sim;R$ 800,00
+;;;;;;
+09/11/2018;10/11/2018;557;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+09/11/2018;10/11/2018;553;Pagamento;Débito Visa Master;Sim;R$ 369,00
+;;;;;;
+09/11/2018;09/11/2018;556;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+10/11/2018;11/11/2018;563;Pagamento;Crédito Amex 1x;Não;R$ 119,00
+;;;;;;
+;;;;;;
+;;;;;;
+10/11/2018;11/11/2018;562;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+10/11/2018;10/11/2018;561;Pagamento;Dinheiro;Sim;R$ 140,00
+10/11/2018;10/11/2018;560;Pagamento;Dinheiro;Sim;R$ 144,55
+10/11/2018;10/11/2018;559;Pagamento;Dinheiro;Sim;R$ 144,55
+12/11/2018;13/11/2018;569;Pagamento;Crédito Visa Master 1x;Sim;R$ 210,00
+12/11/2018;13/11/2018;568;Pagamento;Débito Visa Master;Sim;R$ 20,00
+12/11/2018;12/11/2018;566;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+12/11/2018;12/11/2018;565;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+13/11/2018;14/11/2018;492;Pagamento;Crédito Visa Master 1x;Sim;R$ 90,00
+;;;;;;
+;;;;;;
+15/11/2018;15/11/2018;575;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+17/11/2018;18/11/2018;577;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+17/11/2018;17/11/2018;578;Pagamento;Dinheiro;Sim;R$ 120,00
+19/11/2018;19/11/2018;581;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+19/11/2018;19/11/2018;580;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+;;;;;;
+19/11/2018;19/11/2018;579;Pagamento;Dinheiro;Sim;R$ 120,00
+20/11/2018;21/11/2018;582;Pagamento;Crédito Visa Master 1x;Sim;R$ 167,00
+22/11/2018;23/11/2018;587;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+22/11/2018;22/11/2018;586;Pagamento;Dinheiro;Sim;R$ 170,00
+;;;;;;
+;;;;;;
+;;;;;;
+22/11/2018;22/11/2018;584;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+23/11/2018;23/11/2018;591;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+24/11/2018;24/11/2018;595;Pagamento;Dinheiro;Sim;R$ 144,55
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+24/11/2018;24/11/2018;594;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+25/11/2018;26/11/2018;597;Pagamento;Crédito Visa Master 1x;Sim;R$ 285,00
+;;;;;;
+25/11/2018;26/11/2018;596;Pagamento;Crédito Visa Master 1x;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+27/11/2018;28/11/2018;603;Pagamento;Crédito Visa Master 1x;Sim;R$ 119,00
+27/11/2018;28/11/2018;600;Pagamento;Débito Visa Master;Sim;R$ 78,00
+28/11/2018;29/11/2018;606;Pagamento;Débito Visa Master;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+28/11/2018;29/11/2018;602;Pagamento;Crédito Visa Master 1x;Sim;R$ 80,00
+;;;;;;
+;;;;;;
+28/11/2018;28/11/2018;607;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+29/11/2018;30/11/2018;608;Pagamento;Débito Visa Master;Sim;R$ 127,50
+;;;;;;
+;;;;;;
+01/12/2018;02/12/2018;615;Pagamento;Crédito Visa Master 1x;Sim;R$ 85,00
+;;;;;;
+;;;;;;
+02/12/2018;02/12/2018;619;Pagamento;Dinheiro;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+02/12/2018;02/12/2018;618;Pagamento;Dinheiro;Sim;R$ 65,00
+;;;;;;
+;;;;;;
+03/12/2018;04/12/2018;632;Pagamento;Débito Visa Master;Sim;R$ 78,00
+;;;;;;
+;;;;;;
+04/12/2018;05/12/2018;633;Pagamento;Crédito Visa Master 1x;Sim;R$ 120,00
+;;;;;;
+;;;;;;
+04/12/2018;04/12/2018;636;Pagamento;Dinheiro;Sim;R$ 119,00
+;;;;;;
+;;;;;;
+07/12/2018;08/12/2018;645;Pagamento;Débito Visa Master;Sim;R$ 250,00
+;;;;;;
+;;;;;;
+08/12/2018;08/12/2018;644;Pagamento;Dinheiro;Sim;R$ 72,25
+;;;;;;
+;;;;;;
+09/12/2018;09/12/2018;647;Pagamento;Dinheiro;Sim;R$ 144,55
+;;;;;;
+;;;;;;
+;;;;;;
+10/12/2018;11/12/2018;652;Pagamento;Crédito Visa Master 1x;Sim;R$ 149,00
+10/12/2018;11/12/2018;650;Pagamento;Débito Visa Master;Sim;R$ 200,00
+;;;;;;
+10/12/2018;10/12/2018;648;Pagamento;Dinheiro;Sim;R$ 15,00
+;;;;;;
+11/12/2018;12/12/2018;654;Pagamento;Débito Visa Master;Sim;R$ 119,00
+;;;;;;
+11/12/2018;12/12/2018;653;Pagamento;Crédito Visa Master 1x;Sim;R$ 195,50
+;;;;;;
+;;;;;;
+;;;;;;
+12/12/2018;12/12/2018;655;Pagamento;Dinheiro;Sim;R$ 20,00
+14/12/2018;15/12/2018;660;Pagamento;Débito Visa Master;Sim;R$ 150,00
+17/12/2018;18/12/2018;668;Pagamento;Crédito Visa Master 1x;Sim;R$ 136,00
+17/12/2018;18/12/2018;667;Pagamento;Débito Visa Master;Sim;R$ 100,00
+17/12/2018;18/12/2018;663;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+17/12/2018;17/12/2018;666;Pagamento;Dinheiro;Sim;R$ 20,00
+17/12/2018;17/12/2018;664;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+17/12/2018;17/12/2018;662;Pagamento;Dinheiro;Sim;R$ 100,00
+;;;;;;
+18/12/2018;19/12/2018;669;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+19/12/2018;20/12/2018;671;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+19/12/2018;20/12/2018;670;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+20/12/2018;21/12/2018;698;Pagamento;Crédito Visa Master 1x;Sim;R$ 98,00
+;;;;;;
+;;;;;;
+;;;;;;
+20/12/2018;21/12/2018;676;Pagamento;Débito Visa Master;Sim;R$ 100,00
+;;;;;;
+20/12/2018;21/12/2018;675;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+20/12/2018;21/12/2018;674;Pagamento;Débito Visa Master;Sim;R$ 200,00
+;;;;;;
+;;;;;;
+21/12/2018;24/12/2018;679;Pagamento;Boleto;Sim;R$ 70,00
+;;;;;;
+;;;;;;
+21/12/2018;21/12/2018;678;Pagamento;Dinheiro;Sim;R$ 30,00
+24/12/2018;25/12/2018;682;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+24/12/2018;25/12/2018;681;Pagamento;Crédito Visa Master 1x;Sim;R$ 100,00
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+26/12/2018;26/12/2018;684;Pagamento;Dinheiro;Sim;R$ 72,25
+28/12/2018;28/12/2018;691;Pagamento;Dinheiro;Sim;R$ 140,00
