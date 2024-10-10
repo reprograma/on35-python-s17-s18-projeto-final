@@ -19,10 +19,10 @@ Realizar uma análise dos dados com o objetivo de **identificar se o número de 
 
 ### As perguntas norteadoras deste projeto são:
 
-1. Distribuição nacional da quantidade de salas de cinemas nas 5 regiões brasileiras.
+1. Distribuição da quantidade de salas de cinemas no Brasil.
  
-2. Quais são as salas de cinema que possuem assentos para cadeirante, pessoas com mobilidade reduzida e pessoas obesas?
+2. Comparar o número total de assentos com o número de assentos para cadeirante, pessoas com mobilidade reduzida e pessoas obesas?
 
 3. Possuem banheiros acessíveis?
 
-4. O acesso a sala ou ao cinema possui rampa?
+4. O acesso a sala e ao assento possui rampa?
