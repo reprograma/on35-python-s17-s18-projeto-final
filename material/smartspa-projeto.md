@@ -14,14 +14,17 @@ Este projeto consiste na análise da **Análise do Perfil do Cliente - Clinica S
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: Pacientes  
+-    Base cadastro dos clientes e de vendas relatório de comandas - **Smart Spa**
+
+- **Base 1**: Pacientes 
+- **Base 2**: Financeiro
 
 ---
  
 ### Objetivo Geral:
 
 **Realizar uma análise dos dados com o objetivo de**
-**O objetivo principal é obter um entendimento profundo e detalhado sobre seus clientes. 
+**O objetivo principal é obter um entendimento profundo e detalhado sobre os clientes. 
 
 ### As perguntas norteadoras deste projeto são:  
 
@@ -32,19 +35,21 @@ Este projeto consiste na análise da **Análise do Perfil do Cliente - Clinica S
      Qual a média de frequencia das visitas?
      Qual o valor médio gasto por cliente por visita?
 	Qual a frequência média de visitas por cliente?
-	Existe alguma correlação entre o valor gasto e a frequência de visitas?
 	Qual o perfil do cliente que mais gasta?
    
 2. **[Pergunta comparativa]** 
      Qual a porcentagem de clientes que retornaram após a primeira visita?
-     Qual o tempo médio entre as visitas dos clientes que retornaram?
-     Existe alguma diferença no perfil dos clientes que retornaram em relação aos que não retornaram?
-
-
+    
 ---
 
 ## Ferramentas Utilizadas  
-- **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
-- **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
+- **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas,Numpy, Seaborn, Matplotlib, etc.  
+![alt text](Python.png),![alt text](Jupyter.png),![alt text](Pandas.png),![alt text](Matplotlib.png),![alt text](Seaborn.png)
+
+- **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.
+![alt text](Tableau.png)
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Vscode**: Para execução de notebooks de forma colaborativa e em nuvem.  
+![alt text](Github.png)
+- **Vscode**: Para execução de notebooks de forma colaborativa e em nuvem. 
+![alt text](Vscode.png)
+
