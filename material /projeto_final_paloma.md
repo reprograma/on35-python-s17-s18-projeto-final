@@ -73,6 +73,8 @@ Modelos preditivos: Aplicamos regressão para prever o impacto do aumento do des
 
 Impacto da pandemia: Durante a pandemia, observamos uma queda temporária nas emissões devido à redução das atividades econômicas, mas o desmatamento continuou em algumas regiões, mostrando a resiliência desse problema mesmo em crises globais.
 
+---
+
 ## Ferramentas Utilizadas:
 
 Banco de dados Python (Jupyter Notebook): Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc. Tableau: Para criar as visualizações finais e apresentar os insights gerados. GitHub: Para versionamento do projeto e documentação. Google Colab (opcional): Para execução de notebooks de forma colaborativa e em nuvem.
@@ -86,6 +88,8 @@ Extensões que irão tornar o processo de desenvolvimento mais simples e intuiti
 SQLite: Essa extensão essencial oferece recursos para abrir e editar arquivos SQLite (.db), executar consultas SQL, visualizar dados e até mesmo criar tabelas e colunas diretamente no VS Code.
 
 SQLite Viewer: Com o SQLite Viewer, você pode visualizar seus dados SQLite de forma gráfica, sem precisar escrever código. Ele oferece uma interface simples e amigável para navegar pelas tabelas, visualizar os dados e editar registros.
+
+---
 
 **Bibliotecas e módulos**:
 
@@ -248,9 +252,9 @@ print(df_sem_duplicatas1)
 
 ```
 
+---
 
-
-## 2. DADOS DESMATAMENTO - MAPBIOMAS
+### 2. DADOS DESMATAMENTO - MAPBIOMAS
 
 ```python
 
@@ -350,8 +354,9 @@ print(df3_limpo)
 
 ```
 
+---
 
-## 3. Integração dos Dados de CO₂ e Desmatamento por Município
+### 3. Integração dos Dados de CO₂ e Desmatamento por Município
 
 
 ``` python
@@ -467,9 +472,9 @@ df_integrado.to_csv('dados_integrados.csv', index=False, encoding='utf-8')
 
 ```
 
+---
 
-
-## 4. Visualização
+## Visualização
 
 ```python
 
@@ -697,20 +702,10 @@ plt.show()
 
 ```
 
+---
 
 
-```python
-
-
-
-```
-
-
-
-
-
-
-## 5. Banco de dados
+## Banco de dados
 
 
 ```python
@@ -752,8 +747,9 @@ conn.close()
 
 ```
 
+---
 
-## 6. Considerações
+## Considerações
 
 A análise inicial dos dados revelou que, apesar dos esforços de preservação, o desmatamento em várias regiões da Bahia aumentou significativamente nos últimos anos. Isso ocorre especialmente em áreas de biomas sensíveis, como a Caatinga e o Cerrado, que são biomas predominantes no estado.
 
