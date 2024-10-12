@@ -11,8 +11,8 @@ Este projeto consiste na análise de dados de incidentes de violência contra mu
 
 ---
 
-## 🔗 Bases Escolhida
-- **Base 1**: Nome da Base de Dados: Violencia Contra Mulher 2022_2023
+## 🔗 Base Escolhida
+- **Base**: Nome da Base de Dados: Violencia Contra Mulher 2022_2023
 
 Fonte: Dados abertos do estado do Espírito Santo, em que a fonte foi o Observatório Estadual de Segurança Pública. 
 Os dados estão disponíveis por meio deste link: https://dados.es.gov.br/dataset/violencia-contra-mulher-2022_2023
