@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
     
 ## Contexto 
-Este projeto consiste na análise de dados dos resultados de média de proficiência de matematica, dos estudantes, no ano de 2023, de acordo com o IDE Ceará e IDESP São Paulo.
+Este projeto consiste na análise de dados dos resultados de média de proficiência de matemática, dos estudantes, no ano de 2023, de acordo com o IDE Ceará e IDESP São Paulo.
 
 ## Etapas do projeto:
 
