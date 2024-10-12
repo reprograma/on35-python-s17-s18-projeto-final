@@ -47,31 +47,17 @@ Este projeto tem como objetivo analisar os dados de desmatamento e emissões de 
 
 ### As perguntas norteadoras deste projeto são:  
 
-Como o desmatamento na Bahia impacta as taxas de emissão de CO₂?
-Qual a taxa de desmatamento nos municípios e biomas da Bahia entre 2019 e 2022?
-Existe uma correlação entre as áreas desmatadas e o aumento das emissões de CO₂?
-Como a pandemia afetou as taxas de desmatamento e emissões de CO₂?
+1. Como o desmatamento na Bahia impacta as taxas de emissão de CO₂?
+2. Qual a taxa de desmatamento nos municípios e biomas da Bahia entre 2019 e 2022?
+3. Existe uma correlação entre as áreas desmatadas e o aumento das emissões de CO₂?
+4. Como a pandemia afetou as taxas de desmatamento e emissões de CO₂?
 
----
-
-### Desafios:
-
-Identificar regiões com maior desmatamento e correlacionar com dados de emissões.
-Avaliar se as políticas públicas e ações de preservação tiveram impacto nos índices de desmatamento durante o período estudado.
-Analisar o efeito da pandemia nas taxas de desmatamento e emissões.
-Direcionamentos:
-
-Para abordar esses desafios, criamos uma base de dados unificada com as informações de desmatamento e emissões de CO₂.
 
 Utilizamos técnicas de análise de dados para identificar padrões e correlações entre as variáveis:
 
-Análise temporal: Avaliamos a evolução do desmatamento e das emissões ao longo dos anos, de 2019 a 2022. Os resultados mostram picos em anos específicos, e um declínio temporário durante o período da pandemia, seguido de um aumento substancial em 2021.
+Análise temporal: Avaliamos a evolução do desmatamento e das emissões ao longo dos anos de 2019 a 2022. 
 
 Correlações regionais: Mapeamos as emissões de CO₂ e áreas desmatadas por município, identificando as regiões da Bahia mais afetadas. Descobrimos que áreas como o Oeste da Bahia, caracterizadas pelo agronegócio, registram as maiores emissões.
-
-Modelos preditivos: Aplicamos regressão para prever o impacto do aumento do desmatamento nas emissões de CO₂, destacando como a degradação ambiental se traduz diretamente em maiores emissões de gases de efeito estufa.
-
-Impacto da pandemia: Durante a pandemia, observamos uma queda temporária nas emissões devido à redução das atividades econômicas, mas o desmatamento continuou em algumas regiões, mostrando a resiliência desse problema mesmo em crises globais.
 
 ---
 
@@ -751,20 +737,9 @@ conn.close()
 
 ## Considerações
 
-A análise inicial dos dados revelou que, apesar dos esforços de preservação, o desmatamento em várias regiões da Bahia aumentou significativamente nos últimos anos. Isso ocorre especialmente em áreas de biomas sensíveis, como a Caatinga e o Cerrado, que são biomas predominantes no estado.
+A análise inicial dos dados revelou que, apesar dos esforços de preservação, o desmatamento em várias regiões da Bahia aumentou significativamente nos últimos anos. 
 
-Esse aumento no desmatamento está intimamente relacionado ao aumento das emissões de CO₂, um dos principais gases responsáveis pelo efeito estufa. O impacto negativo do desmatamento é agravado pelo fato de que essas áreas desmatadas são substituídas por atividades que emitem ainda mais CO₂, como a agropecuária.
+Isso ocorre especialmente em áreas de biomas sensíveis, como a Caatinga e o Cerrado, que são biomas predominantes no estado.
 
-Entretanto, as taxas de desmatamento e emissões de CO₂ apresentaram flutuações durante a pandemia de COVID-19, o que levanta questões sobre o papel de eventos globais e econômicos na redução temporária das atividades humanas e como isso afetou o meio ambiente local.
+O impacto negativo do desmatamento é agravado pelo fato de que essas áreas desmatadas são substituídas por atividades que emitem ainda mais CO₂, como a agropecuária.
 
-Os resultados da análise reforçam a correlação direta entre desmatamento e emissões de CO₂ no estado da Bahia.
-
-Regiões com maiores áreas desmatadas apresentaram emissões de carbono proporcionalmente mais elevadas, principalmente em áreas destinadas à agropecuária.
-
-A pandemia trouxe uma breve redução nas emissões, mas o desmatamento continuou a crescer, destacando a necessidade de políticas públicas mais robustas e eficientes para combater essa tendência.
-
-A expansão agrícola é um dos principais motores do desmatamento e das emissões de CO₂ na Bahia.
-
-Apesar da breve redução de emissões durante a pandemia, o desmatamento persistiu, o que sugere que fatores locais (como a pressão econômica) têm um papel crucial no aumento da degradação ambiental.
-
-Medidas de mitigação mais efetivas, incluindo a fiscalização e preservação de áreas naturais, são fundamentais para controlar as emissões de carbono derivadas do desmatamento.
