@@ -20,11 +20,11 @@ O projeto tem como objetivo analisar os dados de desmatamento e emissões de CO�
 
 
 ## Conclusão
-- ** A pandemia trouxe uma breve redução nas emissões, mas o desmatamento continuou a crescer, destacando a necessidade de políticas públicas mais robustas e eficientes para combater essa tendência.
+- A pandemia trouxe uma breve redução nas emissões, mas o desmatamento continuou a crescer, destacando a necessidade de políticas públicas mais robustas e eficientes para combater essa tendência.
 
-- ** A expansão agrícola é um dos principais motores do desmatamento e das emissões de CO₂ na Bahia.
+- A expansão agrícola é um dos principais motores do desmatamento e das emissões de CO₂ na Bahia.
 
-- ** Apesar da breve redução de emissões durante o período analisado, anos da pandemia, o desmatamento persistiu, o que sugere que fatores locais (como a pressão econômica) têm um papel crucial no aumento da degradação ambiental.
+- Apesar da breve redução de emissões durante o período analisado, anos da pandemia, o desmatamento persistiu, o que sugere que fatores locais (como a pressão econômica) têm um papel crucial no aumento da degradação ambiental.
 
 
  ## Autoras
