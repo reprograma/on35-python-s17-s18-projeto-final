@@ -22,12 +22,14 @@ O projeto tem como objetivo analisar os dados de desmatamento e emissões de CO�
 Observou-se uma correlação negativa forte entre as emissões de CO2 e a área desmatada.
 
 ## Conclusão
-Os insights gerados ajudam a entender como eventos externos e políticas públicas afetam as emissões de CO2.
+A pandemia trouxe uma breve redução nas emissões, mas o desmatamento continuou a crescer, destacando a necessidade de políticas públicas mais robustas e eficientes para combater essa tendência.
 
-## Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-repositorio/projeto-emissoes-co2.git
+A expansão agrícola é um dos principais motores do desmatamento e das emissões de CO₂ na Bahia.
+
+Apesar da breve redução de emissões durante o período analisado, anos da pandemia, o desmatamento persistiu, o que sugere que fatores locais (como a pressão econômica) têm um papel crucial no aumento da degradação ambiental.
+
+Medidas de mitigação mais efetivas, incluindo a fiscalização e preservação de áreas naturais, são fundamentais para controlar as emissões de carbono derivadas do desmatamento.
+
 
  ## Autoras
 Anne e Paloma
