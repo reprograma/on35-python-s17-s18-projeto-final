@@ -29,5 +29,5 @@ Os insights gerados ajudam a entender como eventos externos e políticas públic
    ```bash
    git clone https://github.com/seu-repositorio/projeto-emissoes-co2.git
 
-   Autoras
+ ## Autoras
 Anne e Paloma
