@@ -4,7 +4,7 @@
 Este projeto visa analisar as emissões de CO2 e a área desmatada no Brasil durante o período da pandemia.
 
 ## Objetivo
-O projeto tem como objetivo analisar os dados de desmatamento e emissões de CO₂ no estado da Bahia entre 2019 e 2022. Utilizando bases de dados como o MapBiomas Alertas e o Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG), a análise explora como o desmatamento impactou as emissões de carbono durante o período da pandemia. 
+O projeto tem como objetivo analisar os dados de desmatamento e emissões de CO₂ no estado da Bahia. Utilizando bases de dados, a análise explora como o desmatamento impactou as emissões de carbono durante o período da pandemia. 
 
 ## Conjunto de Dados
 - **Fonte dos Dados**: MapBiomas Alertas e SEEG.
