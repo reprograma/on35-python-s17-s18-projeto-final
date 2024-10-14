@@ -24,3 +24,5 @@ Colab: Python dentro do colab para a análise exploratória de dados utilizando 
 GitHub: Para versionamento do projeto e documentação.
 
 Google Colab: Para execução de notebooks e limpeza de dados de forma colaborativa e em nuvem.
+
+Tableau: para demonstração das análises por gráficos.
