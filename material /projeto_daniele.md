@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na **Análise Exploratória dos Dados do YouTube**.  
+Este projeto consiste na **Análise Exploratória dos Dados do YouTube 2023**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
@@ -27,14 +27,11 @@ Realizar uma análise dos dados com o objetivo de **[gerar insights sobre os can
 A base de dados "Global YouTube Statistics 2023, Kaggle" contém dados com informações sobre múltiplos canais do YouTube de forma global.
 2. **[Pergunta comparativa]** - Qual o faturamento dos maiores canais da plataforma no Brasil e qual o faturamento dos maiores canais do mundo?
 3. **[Pergunta relacional]** - existe relacao de usuarios matriculados no ensino superior e utilizacao da plataforma?  
-4. **[Pergunta exploratória]** - Quais os maiores canais da plataforma, quais paises mais assistem videos, rank dos paises com o maior numero de inscritos
+4. **[Pergunta exploratória]** - Quais os maiores canais da plataforma, quais paises mais assistem videos, rank dos paises com o maior numero de inscritos.
 
-
-"Com a minha analise eu gostaria de apresentar:  Quais são as principais características da base de dados selecionada, quantas visualizações os maiores canais da plataforma recebem e qual o faturamento estimado deles no Brasil e no mundo, trazer as categorias com mais visualizações e se existe relacao de usuarios matriculados no ensino superior e utilizacao da plataforma"
 ---
 
 ## Ferramentas Utilizadas  
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
