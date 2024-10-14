@@ -5,8 +5,7 @@ Este projeto consiste na análise de **[perfil dos investidores brasileiros que 
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [7x Relatório Anbima - dados brutos]
-2. **Definir Objetivo e Perguntas**  [Objitov: Caracterizar perfil dos investidores brasileiros que se envolvem em jogos de aposta online.; Perguntas: Quais são as principais características de quem aposta online? Quais meios mais usados de informação por quem faz apostas online? Existe relação entre renda e a propensão de apostar? Pessoas que apostam costumam ter relações impactadas por questões financeiras?
-
+2. **Definir Objetivo e Perguntas**  [Objetivo: Caracterizar perfil dos investidores brasileiros que se envolvem em jogos de aposta online.; Perguntas:Quais fatores estão associados ao envolvimento assíduo dos brasileiros em jogos de apostas online? Qual é o perfil de quem joga frequentemente? A forma com a qual a pessoa se informa está relacionado a propensão de se tornar um apostador assíduo? 
 ]
 3. **Realizar Análise Exploratória**  [Identificar correlações, padrões e outliers nos dados.] 
 4. **Gerar Base Final**  [Limpar e estruturar os dados para a visualização.] 
@@ -21,18 +20,16 @@ Este projeto consiste na análise de **[perfil dos investidores brasileiros que 
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de identificar os fatores que influenciam os brasileiros a se envolverem em em jogos de aposta online.  
+Realizar uma análise dos dados com o objetivo de identificar os fatores que estão associados ao envolvimento assíduo dos brasileiros em jogos de apostas online
 
 ### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+1. Quais fatores estão associados ao envolvimento assíduo dos brasileiros em jogos de apostas online? 
+2. Qual é o perfil de quem joga frequentemente?
+3. A forma com a qual a pessoa se informa está relacionado a propensão de se tornar um apostador assíduo? 
 
 ---
 
 ## Ferramentas Utilizadas  
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
-- **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
-- **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
+- **Tableau Desktop**: Para criar as visualizações finais e apresentar os insights gerados.  
+- **GitHub**: Para versionamento do projeto e documentação.   
