@@ -1,4 +1,5 @@
-# Projeto Final de Análise de Dado*
+# Da  Floresta à Fazenda: Análise temporal da cobertura vegetal no Acre, Amazonas e Rondônia.
+#### Este trabalho é um projeto final do curso Reprograma
 # Contexto
 ### A Amazônia enfrenta desafios significativos devido à pressão da agropecuária, que avança sobre áreas de floresta. O desmatamento e a degradação ambiental afetam a biodiversidade e os serviços ecossistêmicos, impactando diretamente as comunidades locais.
 
